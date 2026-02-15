@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://miamiendurancetesting.com/sitemap.xml
+
+# Allow all search engines to access all content
+# No restrictions - we want maximum SEO visibility
+
+# Optimize crawl rate for important pages
+Crawl-delay: 1
+
+# Block any potential admin or private areas (if they existed)
+# Disallow: /admin/
+# Disallow: /private/
+# Disallow: /temp/
+
+# Allow specific bots to crawl faster
+User-agent: Googlebot
+Crawl-delay: 0.5
+
+User-agent: Bingbot
+Crawl-delay: 0.5
+
+User-agent: DuckDuckBot
+Crawl-delay: 0.5

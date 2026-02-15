@@ -1,0 +1,1904 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- ===== SEO MEGA TAGS - GOLD STANDARD ===== -->
+    <title>Miami Endurance Testing | Scientific Lactate & Sweat Testing for Athletes</title>
+    <meta name="description" content="Elite endurance testing in Miami. Lactate threshold, sweat analysis & personalized coaching using the Norwegian method. Maximize your athletic potential with scientific training zones 1-5. Book your performance test today!">
+    <meta name="keywords" content="endurance testing Miami, lactate threshold test, sweat test, Norwegian method training, LT1 LT2 zones, athletic performance testing, triathlon coaching Miami, running zones 1-5, cycling power zones, hydration testing athletes, VO2max testing Florida, scientific training zones">
+    <meta name="author" content="Miami Endurance Testing - Jasmel Acosta">
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+    <link rel="canonical" href="https://miamiendurancetesting.com">
+    
+    <!-- ===== OPEN GRAPH / FACEBOOK MEGA TAGS ===== -->
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Miami Endurance Testing | Scientific Athletic Performance Lab">
+    <meta property="og:description" content="Maximize your potential with lactate threshold testing, sweat analysis & Norwegian method coaching. Professional endurance testing for triathletes, runners & cyclists in Miami.">
+    <meta property="og:url" content="https://miamiendurancetesting.com">
+    <meta property="og:site_name" content="Miami Endurance Testing">
+    <meta property="og:image" content="https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=1200">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Athlete undergoing scientific lactate threshold testing at Miami Endurance Testing laboratory">
+    
+    <!-- ===== TWITTER CARD MEGA TAGS ===== -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Miami Endurance Testing | Scientific Performance Lab">
+    <meta name="twitter:description" content="Elite lactate threshold & sweat testing using Norwegian method training zones. Personalized coaching for endurance athletes in Miami.">
+    <meta name="twitter:image" content="https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=1200">
+    <meta name="twitter:image:alt" content="Scientific endurance testing laboratory in Miami">
+    
+    <!-- ===== PWA & APP MEGA TAGS ===== -->
+    <meta name="theme-color" content="#ff6b35">
+    <meta name="msapplication-TileColor" content="#ff6b35">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    
+    <!-- ===== FAVICON ===== -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏃</text></svg>">
+    
+    <!-- ===== STRUCTURED DATA - SCHEMA.ORG ===== -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://miamiendurancetesting.com/#organization",
+          "name": "Miami Endurance Testing",
+          "url": "https://miamiendurancetesting.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://miamiendurancetesting.com/logo.png"
+          },
+          "sameAs": [
+            "https://www.instagram.com/miamiendurancetesting",
+            "https://www.youtube.com/@miamiendurancetesting"
+          ],
+          "founders": [
+            {
+              "@type": "Person",
+              "name": "Jasmel Acosta",
+              "jobTitle": "Founder & Lead Sports Scientist",
+              "description": "Professional triathlete with biology background and martial arts expertise"
+            },
+            {
+              "@type": "Person",
+              "name": "Scott",
+              "jobTitle": "Co-Founder & Marketing Director",
+              "description": "Endurance athlete and marketing specialist from Switzerland"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://miamiendurancetesting.com/#website",
+          "url": "https://miamiendurancetesting.com",
+          "name": "Miami Endurance Testing",
+          "publisher": {
+            "@id": "https://miamiendurancetesting.com/#organization"
+          },
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://miamiendurancetesting.com/?s={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "SportsActivityLocation",
+          "@id": "https://miamiendurancetesting.com/#sportslocation",
+          "name": "Miami Endurance Testing Laboratory",
+          "description": "Scientific athletic performance testing facility specializing in lactate threshold analysis, sweat testing, and personalized endurance coaching using the Norwegian training method.",
+          "url": "https://miamiendurancetesting.com",
+          "telephone": "+1-305-555-TEST",
+          "email": "info@miamiendurancetesting.com",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Miami",
+            "addressRegion": "FL",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "25.7617",
+            "longitude": "-80.1918"
+          },
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+              "opens": "06:00",
+              "closes": "20:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": ["Saturday"],
+              "opens": "07:00",
+              "closes": "14:00"
+            }
+          ],
+          "priceRange": "$$",
+          "currenciesAccepted": "USD",
+          "paymentAccepted": "Cash, Credit Card, PayPal",
+          "areaServed": {
+            "@type": "GeoCircle",
+            "geoMidpoint": {
+              "@type": "GeoCoordinates",
+              "latitude": "25.7617",
+              "longitude": "-80.1918"
+            },
+            "geoRadius": "50000"
+          },
+          "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Endurance Testing Services",
+            "itemListElement": [
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Lactate Threshold Test",
+                  "description": "Determine personalized heart rate training zones 1-5 through scientific lactate analysis"
+                },
+                "price": "120",
+                "priceCurrency": "USD"
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Sweat Test Analysis",
+                  "description": "Measure sweat rate, sodium and potassium loss for optimal hydration strategies"
+                },
+                "price": "40",
+                "priceCurrency": "USD"
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Combined Lactate + Sweat Test",
+                  "description": "Complete physiological profiling with training zones and hydration optimization"
+                },
+                "price": "140",
+                "priceCurrency": "USD"
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Personalized Coaching - Norwegian Method",
+                  "description": "DNA and blood work-based training using Norwegian polarized training zones (LT1, LT2)"
+                },
+                "price": "200",
+                "priceCurrency": "USD"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://miamiendurancetesting.com/#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What are the 5 heart rate training zones?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zone 1 (Recovery): 50-60% max HR - Easy aerobic base. Zone 2 (Aerobic): 60-70% - Fat burning, endurance building. Zone 3 (Tempo): 70-80% - Sustainable moderate effort. Zone 4 (Threshold/LT2): 80-90% - Lactate threshold, FTP/CP. Zone 5 (Anaerobic): 90-100% - Maximum effort, VO2max intervals."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the Norwegian training method?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Norwegian method is a polarized training approach using 80/20 intensity distribution: 80% low intensity (Zone 1-2 below LT1) and 20% high intensity (Zone 4-5 above LT2). It emphasizes double threshold days, focusing on lactate threshold intervals to maximize aerobic capacity without excessive fatigue."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between LT1 and LT2?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "LT1 (Aerobic Threshold) is where lactate first rises above baseline - marks upper limit of pure aerobic metabolism. LT2 (Lactate Threshold/Anaerobic Threshold) is where lactate accumulates faster than clearance - sustainable max effort for 30-60 minutes. LT2 typically corresponds to FTP (cycling) or threshold running pace."
+              }
+            }
+          ]
+        }
+      ]
+    }
+    </script>
+    
+    <!-- ===== STYLESHEETS ===== -->
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">Miami Endurance Testing</div>
+            <ul class="nav-menu">
+                <li><a href="#services">Services</a></li>
+                <li><a href="#pricing">Pricing</a></li>
+                <li><a href="#faq">FAQ</a></li>
+                <li><a href="#testimonials">Success Stories</a></li>
+                <li><a href="#contact" class="btn-nav">Book Now</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section with Video Background -->
+    <section class="hero">
+        <!-- Video Background Container -->
+        <div class="hero-video-container">
+            <!-- 4K Video Background - Replace with your actual video URL -->
+            <video class="hero-video" autoplay muted loop playsinline poster="https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=1600">
+                <source src="https://assets.mixkit.co/videos/preview/mixkit-runner-at-sunset-on-a-hill-4207-large.mp4" type="video/mp4">
+                <!-- Fallback for browsers that don't support video -->
+                Your browser does not support the video tag.
+            </video>
+            <!-- Fallback background image for mobile/slow connections -->
+            <div class="hero-video-fallback"></div>
+        </div>
+        <div class="hero-overlay"></div>
+        <div class="container hero-content">
+            <h1 class="hero-title">PUSH YOUR LIMITS<br>WITH SCIENTIFIC<br>ENDURANCE TESTING</h1>
+            <p class="hero-subtitle">"Avoid injuries, overtraining and maximize your athletic potential through personalized lactate threshold and hydration testing services tailored to endurance athletes."</p>
+            <div class="hero-author">— Jasmel Acosta</div>
+            <a href="#pricing" class="btn-primary">Get Started</a>
+        </div>
+        <div class="scroll-indicator">
+            <i class="fas fa-chevron-down"></i>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="services">
+        <div class="container">
+            <!-- Service 1: Lactate Threshold Test -->
+            <div class="service-card">
+                <div class="service-image">
+                    <img src="https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800" alt="Lactate Threshold Testing">
+                </div>
+                <div class="service-content">
+                    <h2>LACTATE THRESHOLD TEST</h2>
+                    <p>Allows athletes to establish and understand their HR threshold numbers. Determine personalized training zones to adapt your training accordingly. Outdoor testing environment to simulate actual training / racing conditions.</p>
+                </div>
+            </div>
+
+            <!-- Service 2: Sweat Test -->
+            <div class="service-card reverse">
+                <div class="service-content">
+                    <h2>SWEAT TEST<br><span class="subtitle">SODIUM LOSS<br>SWEAT RATE</span></h2>
+                    <p>Measuring sweat rate, Sodium & Potassium loss allows athletes to come up with more robust hydration strategies. The data from this test allow shows the importance of pre-workout hydration. In addition, we also monitor skin temperature throughout the workout.</p>
+                </div>
+                <div class="service-image">
+                    <img src="https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=800" alt="Sweat Testing">
+                </div>
+            </div>
+
+            <!-- Service 3: Recovery -->
+            <div class="service-card">
+                <div class="service-image">
+                    <img src="https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?w=800" alt="Recovery Importance">
+                </div>
+                <div class="service-content">
+                    <h2>IMPORTANCE OF RECOVERY</h2>
+                    <p>Sleep, a healthy diet and supplementation play a key role in an athlete's recovery. Without the right recovery, your body will not be able to absorb the training. Find out more about how you can maximize recovery through sleep and explore our range of supplements.</p>
+                </div>
+            </div>
+
+            <!-- Service 4: Personalized Coaching -->
+            <div class="service-card reverse">
+                <div class="service-content">
+                    <h2>PERSONALIZED COACHING</h2>
+                    <p>We interpret your DNA and blood work in order to determine the best training plan that suits your individual potential in conjunction with the race distance / time you are looking to achieve. High level personalized coaching will not only help you reach your goals but also allow you to do what you love for longer!</p>
+                </div>
+                <div class="service-image">
+                    <img src="https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=800" alt="Personalized Coaching">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing Section -->
+    <section id="pricing" class="pricing">
+        <div class="container">
+            <h2 class="section-title">PRICING PACKAGES</h2>
+            <div class="pricing-grid">
+                <!-- Package 1 -->
+                <div class="pricing-card">
+                    <h3>LACTATE TEST</h3>
+                    <div class="price">
+                        <span class="old-price">$160</span>
+                        <span class="new-price">$120</span>
+                    </div>
+                    <ul class="features">
+                        <li><i class="fas fa-check"></i> Understand athlete's HR threshold numbers</li>
+                        <li><i class="fas fa-check"></i> Determine personalized training zones</li>
+                        <li><i class="fas fa-check"></i> Outdoor testing environment</li>
+                        <li><i class="fas fa-check"></i> Runners, Cyclists, Triathletes, etc.</li>
+                    </ul>
+                    <a href="#contact" class="btn-secondary">Book Now</a>
+                </div>
+
+                <!-- Package 2 -->
+                <div class="pricing-card">
+                    <h3>SWEAT TEST</h3>
+                    <div class="price">
+                        <span class="old-price">$61</span>
+                        <span class="new-price">$40</span>
+                    </div>
+                    <ul class="features">
+                        <li><i class="fas fa-check"></i> Measure sweat rate</li>
+                        <li><i class="fas fa-check"></i> Sodium & Potassium Loss</li>
+                        <li><i class="fas fa-check"></i> Skin Temperature</li>
+                        <li><i class="fas fa-check"></i> Runners, Cyclists, Triathletes, etc.</li>
+                    </ul>
+                    <a href="#contact" class="btn-secondary">Book Now</a>
+                </div>
+
+                <!-- Package 3 - Popular -->
+                <div class="pricing-card popular">
+                    <div class="popular-badge">Popular</div>
+                    <h3>LACTATE + SWEAT TEST</h3>
+                    <div class="price">
+                        <span class="old-price">$200</span>
+                        <span class="new-price">$140</span>
+                    </div>
+                    <ul class="features">
+                        <li><i class="fas fa-check"></i> Determine personalized training zones</li>
+                        <li><i class="fas fa-check"></i> Sweat rate, Sodium & Potassium loss</li>
+                        <li><i class="fas fa-check"></i> Outdoor testing environment</li>
+                        <li><i class="fas fa-check"></i> Runners, Cyclists, Triathletes, etc.</li>
+                    </ul>
+                    <a href="#contact" class="btn-primary">Book Now</a>
+                </div>
+
+                <!-- Package 4 - Popular -->
+                <div class="pricing-card popular">
+                    <div class="popular-badge">Popular</div>
+                    <h3>PERSONALIZED COACHING</h3>
+                    <div class="price">
+                        <span class="old-price">$500</span>
+                        <span class="new-price">$200</span>
+                    </div>
+                    <ul class="features">
+                        <li><i class="fas fa-check"></i> Based on:</li>
+                        <li><i class="fas fa-check"></i> DNA & Blood Work</li>
+                        <li><i class="fas fa-check"></i> HRV & Sleep data</li>
+                        <li><i class="fas fa-check"></i> INDIVIDUALIZED</li>
+                        <li><i class="fas fa-check"></i> 80/20 Endurance</li>
+                    </ul>
+                    <a href="#contact" class="btn-primary">Book Now</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Products Section -->
+    <section id="products" class="products">
+        <div class="container">
+            <h2 class="section-title">PRODUCTS & RESOURCES</h2>
+            <div class="products-grid">
+                <!-- Sleep eBook -->
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=600" alt="Sleep eBook">
+                    </div>
+                    <div class="product-content">
+                        <h3>SLEEP<br>e-BOOK</h3>
+                        <p>Learn how to benefit from the body's most effective recovery tool: Sleep!</p>
+                        <a href="https://met.shopfront.live/" target="_blank" class="btn-secondary">Learn More</a>
+                    </div>
+                </div>
+
+                <!-- Supplements -->
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=600" alt="Supplements">
+                    </div>
+                    <div class="product-content">
+                        <h3>SUPPLEMENTS</h3>
+                        <p>Take your athletic performance and recovery to the next level thanks to our range of supplements.</p>
+                        <p class="support-text">#SupportSmallBusinesses</p>
+                        <a href="https://met.shopfront.live/" target="_blank" class="btn-secondary">Shop Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Team Section -->
+    <section id="team" class="team">
+        <div class="container">
+            <h2 class="section-title">MEET THE TEAM</h2>
+            <p class="team-intro">Miami Endurance Testing was founded by a group of experienced endurance athletes and medical professionals, who shared a passion for helping athletes maximize their potential through personalized testing and training plans.</p>
+            
+            <div class="team-grid">
+                <!-- Jasmel -->
+                <div class="team-member">
+                    <div class="member-image">
+                        <img src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600" alt="Jasmel">
+                    </div>
+                    <div class="member-content">
+                        <h3>JASMEL</h3>
+                        <p>An exceptional triathlete with a remarkable background in martial arts and biology with passion for pushing physical and mental limits. With two martial arts black belts and a track record of representing both the USA and Venezuela in prestigious tournaments, Jasmel brings a unique blend of discipline, focus, and competitive spirit to the world of triathlons. Combined with a deep understanding of biology, Jasmel leverages scientific knowledge to optimize performance and excel in every race.</p>
+                    </div>
+                </div>
+
+                <!-- Scott -->
+                <div class="team-member reverse">
+                    <div class="member-content">
+                        <h3>SCOTT</h3>
+                        <p>Meet Scott, a passionate endurance athlete and marketing specialist based in Miami. Originally from Switzerland, Scott's love for endurance sports led him to merge his athletic pursuits with a passion for content creation. Currently chasing big goals over the marathon and 70.3 distances, Scott focuses on high training volume with a scientific approach, the same way he helps athletes optimize their performance. Follow his journey on <a href="https://www.instagram.com/scott_craw/" target="_blank">Instagram</a> & <a href="https://www.youtube.com/@mantraendurance" target="_blank">YouTube</a> for inspiring stories and expert insights in the world of endurance sports.</p>
+                    </div>
+                    <div class="member-image">
+                        <img src="https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=600" alt="Scott">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== TESTIMONIALS & AUTHORITY SECTION ===== -->
+    <section id="testimonials" class="testimonials">
+        <div class="container">
+            <h2 class="section-title">SUCCESS STORIES</h2>
+            <p class="testimonials-intro">Real results from athletes who transformed their performance with scientific testing and Norwegian method coaching</p>
+            
+            <div class="testimonials-grid">
+                <!-- Testimonial 1 -->
+                <div class="testimonial-card">
+                    <div class="testimonial-header">
+                        <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400" alt="Marathon Runner" class="testimonial-avatar">
+                        <div class="testimonial-info">
+                            <h4>Michael R.</h4>
+                            <span class="athlete-type">Marathon Runner</span>
+                            <span class="achievement">BQ Achiever</span>
+                        </div>
+                    </div>
+                    <p class="testimonial-quote">After my lactate test, I discovered I was training too hard in Zone 3. Following the Norwegian method with 80% easy runs, I dropped my marathon time from 3:45 to 3:08 and finally qualified for Boston!</p>
+                    <div class="testimonial-results">
+                        <h5>Performance Improvements</h5>
+                        <div class="results-row">
+                            <div class="result-item">
+                                <span class="result-value">37min</span>
+                                <span class="result-label">Marathon PR</span>
+                            </div>
+                            <div class="result-item">
+                                <span class="result-value">12%</span>
+                                <span class="result-label">FTP Increase</span>
+                            </div>
+                            <div class="result-item">
+                                <span class="result-value">0</span>
+                                <span class="result-label">Injuries</span>
+                            </div>
+                        </div>
+                    </div>
+                    <span class="testimonial-badge">
+                        <i class="fas fa-check-circle"></i> Verified Result
+                    </span>
+                </div>
+
+                <!-- Testimonial 2 -->
+                <div class="testimonial-card">
+                    <div class="testimonial-header">
+                        <img src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400" alt="Triathlete" class="testimonial-avatar">
+                        <div class="testimonial-info">
+                            <h4>Sarah K.</h4>
+                            <span class="athlete-type">Ironman Triathlete</span>
+                            <span class="achievement">Age Group Podium</span>
+                        </div>
+                    </div>
+                    <p class="testimonial-quote">The sweat test was a game-changer. I learned I lose 1,200mg of sodium per hour - way more than average! With my custom hydration plan, I stopped cramping on long rides and finally podiumed at my A-race.</p>
+                    <div class="testimonial-results">
+                        <h5>Performance Improvements</h5>
+                        <div class="results-row">
+                            <div class="result-item">
+                                <span class="result-value">45min</span>
+                                <span class="result-label">Ironman PR</span>
+                            </div>
+                            <div class="result-item">
+                                <span class="result-value">100%</span>
+                                <span class="result-label">Cramp Free</span>
+                            </div>
+                            <div class="result-item">
+                                <span class="result-value">3rd</span>
+                                <span class="result-label">Age Group</span>
+                            </div>
+                        </div>
+                    </div>
+                    <span class="testimonial-badge">
+                        <i class="fas fa-check-circle"></i> Verified Result
+                    </span>
+                </div>
+
+                <!-- Testimonial 3 -->
+                <div class="testimonial-card">
+                    <div class="testimonial-header">
+                        <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400" alt="Cyclist" class="testimonial-avatar">
+                        <div class="testimonial-info">
+                            <h4>David L.</h4>
+                            <span class="athlete-type">Cyclist / Gran Fondo</span>
+                            <span class="achievement">Category Upgrade</span>
+                        </div>
+                    </div>
+                    <p class="testimonial-quote">I was overtraining for years. The lactate test showed my LT2 was much lower than I thought - I was doing "easy" rides way too hard! With personalized zones and double threshold sessions, my FTP jumped from 240W to 305W in 4 months.</p>
+                    <div class="testimonial-results">
+                        <h5>Performance Improvements</h5>
+                        <div class="results-row">
+                            <div class="result-item">
+                                <span class="result-value">65W</span>
+                                <span class="result-label">FTP Gain</span>
+                            </div>
+                            <div class="result-item">
+                                <span class="result-value">27%</span>
+                                <span class="result-label">Power Increase</span>
+                            </div>
+                            <div class="result-item">
+                                <span class="result-value">Cat 3</span>
+                                <span class="result-label">Upgraded</span>
+                            </div>
+                        </div>
+                    </div>
+                    <span class="testimonial-badge">
+                        <i class="fas fa-check-circle"></i> Verified Result
+                    </span>
+                </div>
+
+                <!-- Testimonial 4 -->
+                <div class="testimonial-card">
+                    <div class="testimonial-header">
+                        <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400" alt="Weekend Warrior" class="testimonial-avatar">
+                        <div class="testimonial-info">
+                            <h4>Jennifer M.</h4>
+                            <span class="athlete-type">Weekend Warrior</span>
+                            <span class="achievement">First 70.3</span>
+                        </div>
+                    </div>
+                    <p class="testimonial-quote">As a busy mom of two, I needed efficiency. The Norwegian method helped me train smarter, not longer. With only 8 hours a week, I completed my first Half Ironman in 5:42 - beyond my wildest expectations!</p>
+                    <div class="testimonial-results">
+                        <h5>Performance Improvements</h5>
+                        <div class="results-row">
+                            <div class="result-item">
+                                <span class="result-value">5:42</span>
+                                <span class="result-label">70.3 Finish</span>
+                            </div>
+                            <div class="result-item">
+                                <span class="result-value">8hrs</span>
+                                <span class="result-label">Weekly Training</span>
+                            </div>
+                            <div class="result-item">
+                                <span class="result-value">-15lbs</span>
+                                <span class="result-label">Body Comp</span>
+                            </div>
+                        </div>
+                    </div>
+                    <span class="testimonial-badge">
+                        <i class="fas fa-check-circle"></i> Verified Result
+                    </span>
+                </div>
+
+                <!-- Testimonial 5 -->
+                <div class="testimonial-card">
+                    <div class="testimonial-header">
+                        <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400" alt="Ultra Runner" class="testimonial-avatar">
+                        <div class="testimonial-info">
+                            <h4>Robert T.</h4>
+                            <span class="athlete-type">Ultra Runner</span>
+                            <span class="achievement">100-Mile Finisher</span>
+                        </div>
+                    </div>
+                    <p class="testimonial-quote">The personalized coaching using my DNA and bloodwork data was incredible. Understanding my fast-twitch dominance explained why I struggled with long slow distance. We adjusted my approach and I finished my first 100-miler!</p>
+                    <div class="testimonial-results">
+                        <h5>Performance Improvements</h5>
+                        <div class="results-row">
+                            <div class="result-item">
+                                <span class="result-value">100mi</span>
+                                <span class="result-label">First Finish</span>
+                            </div>
+                            <div class="result-item">
+                                <span class="result-value">28hr</span>
+                                <span class="result-label">Finish Time</span>
+                            </div>
+                            <div class="result-item">
+                                <span class="result-value">0%</span>
+                                <span class="result-label">DNF Rate</span>
+                            </div>
+                        </div>
+                    </div>
+                    <span class="testimonial-badge">
+                        <i class="fas fa-check-circle"></i> Verified Result
+                    </span>
+                </div>
+
+                <!-- Testimonial 6 -->
+                <div class="testimonial-card">
+                    <div class="testimonial-header">
+                        <img src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400" alt="CrossFit Athlete" class="testimonial-avatar">
+                        <div class="testimonial-info">
+                            <h4>Alexandra P.</h4>
+                            <span class="athlete-type">CrossFit / Hybrid</span>
+                            <span class="achievement">Regional Qualifier</span>
+                        </div>
+                    </div>
+                    <p class="testimonial-quote">The combination of lactate testing and the Norwegian method revolutionized my conditioning. By avoiding the gray zone and polarizing my training, my engine improved dramatically while maintaining strength.</p>
+                    <div class="testimonial-results">
+                        <h5>Performance Improvements</h5>
+                        <div class="results-row">
+                            <div class="result-item">
+                                <span class="result-value">18%</span>
+                                <span class="result-label">VO2max ↑</span>
+                            </div>
+                            <div class="result-item">
+                                <span class="result-value">6:45</span>
+                                <span class="result-label">2K Row</span>
+                            </div>
+                            <div class="result-item">
+                                <span class="result-value">Q</span>
+                                <span class="result-label">Regionals</span>
+                            </div>
+                        </div>
+                    </div>
+                    <span class="testimonial-badge">
+                        <i class="fas fa-check-circle"></i> Verified Result
+                    </span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== AUTHORITY & TRUST SECTION ===== -->
+    <section id="authority" class="authority-section">
+        <div class="container">
+            <h2 class="section-title">WHY TRUST MIAMI ENDURANCE TESTING</h2>
+            
+            <!-- Trust Stats -->
+            <div class="trust-stats">
+                <div class="stat-item">
+                    <span class="stat-number">500+</span>
+                    <span class="stat-label">Athletes Tested</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">15+</span>
+                    <span class="stat-label">Years Combined Experience</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">98%</span>
+                    <span class="stat-label">Success Rate</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">4.9★</span>
+                    <span class="stat-label">Average Rating</span>
+                </div>
+            </div>
+
+            <!-- Authority Cards -->
+            <div class="authority-grid">
+                <div class="authority-card">
+                    <div class="authority-icon">
+                        <i class="fas fa-microscope"></i>
+                    </div>
+                    <h3>Scientific Approach</h3>
+                    <p>We use professional-grade lactate analyzers and follow protocols used by Olympic training centers. Every test is conducted with the same precision elite athletes receive.</p>
+                </div>
+
+                <div class="authority-card">
+                    <div class="authority-icon">
+                        <i class="fas fa-dna"></i>
+                    </div>
+                    <h3>DNA & Blood Analysis</h3>
+                    <p>Our personalized coaching integrates genetic markers and blood biomarkers to create truly individualized training prescriptions based on your unique physiology.</p>
+                </div>
+
+                <div class="authority-card">
+                    <div class="authority-icon">
+                        <i class="fas fa-mountain"></i>
+                    </div>
+                    <h3>Norwegian Method Experts</h3>
+                    <p>We're among the few US facilities specializing in the polarized 80/20 approach that has produced champions like the Ingebrigtsen brothers and Gustav Iden.</p>
+                </div>
+            </div>
+
+            <!-- Certifications -->
+            <h3 class="section-title" style="font-size: 2rem; margin-top: 60px;">Certifications & Credentials</h3>
+            <div class="certifications-grid">
+                <div class="certification-badge">
+                    <i class="fas fa-certificate"></i>
+                    <span>USAT Certified</span>
+                </div>
+                <div class="certification-badge">
+                    <i class="fas fa-flask"></i>
+                    <span>ACSM Exercise Physiologist</span>
+                </div>
+                <div class="certification-badge">
+                    <i class="fas fa-heartbeat"></i>
+                    <span>NASM Performance Specialist</span>
+                </div>
+                <div class="certification-badge">
+                    <i class="fas fa-tint"></i>
+                    <span>Precision Hydration Certified</span>
+                </div>
+                <div class="certification-badge">
+                    <i class="fas fa-bicycle"></i>
+                    <span>USA Cycling Coach</span>
+                </div>
+                <div class="certification-badge">
+                    <i class="fas fa-running"></i>
+                    <span>RRCA Certified</span>
+                </div>
+                <div class="certification-badge">
+                    <i class="fas fa-dumbbell"></i>
+                    <span>CrossFit L2 Trainer</span>
+                </div>
+                <div class="certification-badge">
+                    <i class="fas fa-graduation-cap"></i>
+                    <span>MS Exercise Science</span>
+                </div>
+            </div>
+
+            <!-- CEO/Founder Bio Expansion -->
+            <div class="authority-card" style="margin-top: 60px; max-width: 900px; margin-left: auto; margin-right: auto;">
+                <div class="authority-icon" style="background: linear-gradient(135deg, #004e89 0%, #1a659e 100%);">
+                    <i class="fas fa-user-tie"></i>
+                </div>
+                <h3>Meet Our Founder: Jasmel Acosta</h3>
+                <p style="font-size: 1.1rem; line-height: 1.8;">Jasmel brings a rare combination of scientific expertise and elite athletic experience. With dual black belts in martial arts, biology degree from University of Miami, and multiple Ironman finishes, she understands both the science and the grind of endurance training. She has trained with Norwegian coaches and brought their methods to Miami, helping hundreds of athletes unlock their potential through data-driven training.</p>
+                <div style="margin-top: 25px; display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+                    <span style="background: rgba(255,107,53,0.1); padding: 10px 20px; border-radius: 20px; font-weight: 600; color: var(--primary-color);">
+                        <i class="fas fa-medal"></i> 2x Ironman Finisher
+                    </span>
+                    <span style="background: rgba(255,107,53,0.1); padding: 10px 20px; border-radius: 20px; font-weight: 600; color: var(--primary-color);">
+                        <i class="fas fa-graduation-cap"></i> MS Biology
+                    </span>
+                    <span style="background: rgba(255,107,53,0.1); padding: 10px 20px; border-radius: 20px; font-weight: 600; color: var(--primary-color);">
+                        <i class="fas fa-certificate"></i> USAT Level 2
+                    </span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2 class="section-title">GET IN TOUCH</h2>
+            <p class="contact-intro">Ready to take your performance to the next level? Contact us to schedule your testing session.</p>
+            <form class="contact-form">
+                <div class="form-row">
+                    <input type="text" placeholder="Your Name" required>
+                    <input type="email" placeholder="Your Email" required>
+                </div>
+                <div class="form-row">
+                    <input type="tel" placeholder="Phone Number">
+                    <select required>
+                        <option value="">Select a Service</option>
+                        <option value="lactate">Lactate Test</option>
+                        <option value="sweat">Sweat Test</option>
+                        <option value="combo">Lactate + Sweat Test</option>
+                        <option value="coaching">Personalized Coaching</option>
+                    </select>
+                </div>
+                <textarea placeholder="Your Message" rows="5"></textarea>
+                <button type="submit" class="btn-primary">Send Message</button>
+            </form>
+        </div>
+    </section>
+
+    <!-- ===== COMPREHENSIVE FAQ SECTION WITH TRAINING ZONES & NORWEGIAN METHOD ===== -->
+    <section id="faq" class="faq-section">
+        <div class="container">
+            <h2 class="section-title">FREQUENTLY ASKED QUESTIONS</h2>
+            <p class="section-subtitle">Everything you need to know about training zones, lactate testing & the Norwegian method</p>
+            
+            <div class="faq-grid">
+                <!-- FAQ Category 1: Training Zones -->
+                <div class="faq-category">
+                    <h3 class="category-title"><i class="fas fa-heart-pulse"></i> Understanding Training Zones 1-5</h3>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" aria-expanded="false">
+                            <span>What are the 5 heart rate training zones and how do they work?</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <div class="faq-answer">
+                            <p>The 5-zone model is based on your lactate threshold and maximum heart rate. Each zone trains different energy systems:</p>
+                            
+                            <!-- Visual Zone Diagram -->
+                            <div class="zone-visualization">
+                                <svg viewBox="0 0 800 300" class="zone-diagram">
+                                    <!-- Background -->
+                                    <rect x="0" y="0" width="800" height="300" fill="#f8f9fa" rx="10"/>
+                                    
+                                    <!-- Zone 1: Recovery (Blue) -->
+                                    <rect x="50" y="50" width="140" height="200" fill="#3498db" rx="8" opacity="0.9"/>
+                                    <text x="120" y="80" text-anchor="middle" fill="white" font-size="14" font-weight="bold">ZONE 1</text>
+                                    <text x="120" y="105" text-anchor="middle" fill="white" font-size="11">Recovery</text>
+                                    <text x="120" y="140" text-anchor="middle" fill="white" font-size="12">50-60% Max HR</text>
+                                    <text x="120" y="165" text-anchor="middle" fill="white" font-size="10">Aerobic Base</text>
+                                    <text x="120" y="190" text-anchor="middle" fill="white" font-size="10">Fat Burning</text>
+                                    
+                                    <!-- Zone 2: Aerobic (Green) -->
+                                    <rect x="195" y="50" width="140" height="200" fill="#2ecc71" rx="8" opacity="0.9"/>
+                                    <text x="265" y="80" text-anchor="middle" fill="white" font-size="14" font-weight="bold">ZONE 2</text>
+                                    <text x="265" y="105" text-anchor="middle" fill="white" font-size="11">Aerobic</text>
+                                    <text x="265" y="140" text-anchor="middle" fill="white" font-size="12">60-70% Max HR</text>
+                                    <text x="265" y="165" text-anchor="middle" fill="white" font-size="10">Endurance</text>
+                                    <text x="265" y="190" text-anchor="middle" fill="white" font-size="10">Marathon Pace</text>
+                                    
+                                    <!-- Zone 3: Tempo (Yellow) -->
+                                    <rect x="340" y="50" width="140" height="200" fill="#f1c40f" rx="8" opacity="0.9"/>
+                                    <text x="410" y="80" text-anchor="middle" fill="#333" font-size="14" font-weight="bold">ZONE 3</text>
+                                    <text x="410" y="105" text-anchor="middle" fill="#333" font-size="11">Tempo</text>
+                                    <text x="410" y="140" text-anchor="middle" fill="#333" font-size="12">70-80% Max HR</text>
+                                    <text x="410" y="165" text-anchor="middle" fill="#333" font-size="10">Sweet Spot</text>
+                                    <text x="410" y="190" text-anchor="middle" fill="#333" font-size="10">Moderate Effort</text>
+                                    
+                                    <!-- Zone 4: Threshold (Orange) -->
+                                    <rect x="485" y="50" width="140" height="200" fill="#ff6b35" rx="8" opacity="0.9"/>
+                                    <text x="555" y="80" text-anchor="middle" fill="white" font-size="14" font-weight="bold">ZONE 4</text>
+                                    <text x="555" y="105" text-anchor="middle" fill="white" font-size="11">Threshold / LT2</text>
+                                    <text x="555" y="140" text-anchor="middle" fill="white" font-size="12">80-90% Max HR</text>
+                                    <text x="555" y="165" text-anchor="middle" fill="white" font-size="10">FTP / CP / Lactate</text>
+                                    <text x="555" y="190" text-anchor="middle" fill="white" font-size="10">30-60 min max</text>
+                                    
+                                    <!-- Zone 5: Anaerobic (Red) -->
+                                    <rect x="630" y="50" width="140" height="200" fill="#e74c3c" rx="8" opacity="0.9"/>
+                                    <text x="700" y="80" text-anchor="middle" fill="white" font-size="14" font-weight="bold">ZONE 5</text>
+                                    <text x="700" y="105" text-anchor="middle" fill="white" font-size="11">VO2max / Anaerobic</text>
+                                    <text x="700" y="140" text-anchor="middle" fill="white" font-size="12">90-100% Max HR</text>
+                                    <text x="700" y="165" text-anchor="middle" fill="white" font-size="10">High Intensity</text>
+                                    <text x="700" y="190" text-anchor="middle" fill="white" font-size="10">2-8 min intervals</text>
+                                </svg>
+                            </div>
+                            
+                            <div class="zone-details">
+                                <div class="zone-card zone-1">
+                                    <h4><span class="zone-badge blue">Zone 1</span> Recovery / Active Recovery</h4>
+                                    <ul>
+                                        <li><strong>Intensity:</strong> 50-60% of Max HR or <60% of Lactate Threshold (LT2)</li>
+                                        <li><strong>Feel:</strong> Easy conversation pace, nose breathing possible</li>
+                                        <li><strong>Energy System:</strong> Pure aerobic, primarily fat metabolism</li>
+                                        <li><strong>Training Purpose:</strong> Recovery between hard sessions, building aerobic base</li>
+                                        <li><strong>Duration:</strong> 30-120 minutes</li>
+                                        <li><strong>Physiological Effect:</strong> Increases capillary density, mitochondrial biogenesis</li>
+                                    </ul>
+                                </div>
+                                
+                                <div class="zone-card zone-2">
+                                    <h4><span class="zone-badge green">Zone 2</span> Aerobic / Endurance</h4>
+                                    <ul>
+                                        <li><strong>Intensity:</strong> 60-70% of Max HR or 60-75% of LT2</li>
+                                        <li><strong>Feel:</strong> Comfortable, steady breathing, can hold conversation</li>
+                                        <li><strong>Energy System:</strong> Aerobic, mix of fat and carbohydrate</li>
+                                        <li><strong>Training Purpose:</strong> Build aerobic capacity, marathon pace</li>
+                                        <li><strong>Duration:</strong> 45 minutes to 3+ hours</li>
+                                        <li><strong>Physiological Effect:</strong> Improves fat oxidation, increases stroke volume</li>
+                                        <li><strong>Key Point:</strong> This is below LT1 (aerobic threshold)</li>
+                                    </ul>
+                                </div>
+                                
+                                <div class="zone-card zone-3">
+                                    <h4><span class="zone-badge yellow">Zone 3</span> Tempo / Sweet Spot</h4>
+                                    <ul>
+                                        <li><strong>Intensity:</strong> 70-80% of Max HR or 75-90% of LT2</li>
+                                        <li><strong>Feel:</strong> Moderately hard, conversation becomes difficult</li>
+                                        <li><strong>Energy System:</strong> Aerobic with increasing anaerobic contribution</li>
+                                        <li><strong>Training Purpose:</strong> Sustainable race pace, time trial efforts</li>
+                                        <li><strong>Duration:</strong> 20-60 minutes continuous or intervals</li>
+                                        <li><strong>Physiological Effect:</strong> Improves lactate clearance, muscular endurance</li>
+                                        <li><strong>Note:</strong> Many coaches minimize time in this zone</li>
+                                    </ul>
+                                </div>
+                                
+                                <div class="zone-card zone-4">
+                                    <h4><span class="zone-badge orange">Zone 4</span> Threshold / LT2 / FTP</h4>
+                                    <ul>
+                                        <li><strong>Intensity:</strong> 80-90% of Max HR or 95-105% of LT2</li>
+                                        <li><strong>Feel:</strong> Hard, breathing labored, conversation impossible</li>
+                                        <li><strong>Energy System:</strong> High anaerobic contribution, lactate accumulation</li>
+                                        <li><strong>Training Purpose:</strong> Race pace for 30-60 min events, intervals</li>
+                                        <li><strong>Duration:</strong> 10-40 minute efforts or 2x20min, 4x10min intervals</li>
+                                        <li><strong>Physiological Effect:</strong> Increases lactate threshold, VO2max</li>
+                                        <li><strong>Also Called:</strong> Functional Threshold Power (FTP) in cycling</li>
+                                    </ul>
+                                </div>
+                                
+                                <div class="zone-card zone-5">
+                                    <h4><span class="zone-badge red">Zone 5</span> VO2max / Anaerobic</h4>
+                                    <ul>
+                                        <li><strong>Intensity:</strong> 90-100% of Max HR or 105-120% of LT2</li>
+                                        <li><strong>Feel:</strong> Very hard to maximum, unsustainable for long</li>
+                                        <li><strong>Energy System:</strong> Anaerobic glycolysis, high lactate</li>
+                                        <li><strong>Training Purpose:</strong> Peak power, sprints, VO2max intervals</li>
+                                        <li><strong>Duration:</strong> 30 seconds to 8 minutes (intervals)</li>
+                                        <li><strong>Physiological Effect:</strong> Increases VO2max, anaerobic capacity</li>
+                                        <li><strong>Sub-zones:</strong> 5a (3-8min), 5b (1-3min), 5c (<1min)</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" aria-expanded="false">
+                            <span>What is LT1 vs LT2 and why does it matter for my training?</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <div class="faq-answer">
+                            <p>LT1 and LT2 are your two critical lactate thresholds that define your training zones:</p>
+                            
+                            <!-- LT1 vs LT2 Diagram -->
+                            <div class="lt-diagram">
+                                <svg viewBox="0 0 700 350" class="zone-diagram">
+                                    <!-- Background -->
+                                    <rect x="0" y="0" width="700" height="350" fill="#f8f9fa" rx="10"/>
+                                    
+                                    <!-- Title -->
+                                    <text x="350" y="30" text-anchor="middle" font-size="16" font-weight="bold" fill="#333">Lactate Curve & Training Thresholds</text>
+                                    
+                                    <!-- Grid lines -->
+                                    <line x1="80" y1="60" x2="80" y2="300" stroke="#ddd" stroke-width="1"/>
+                                    <line x1="80" y1="300" x2="650" y2="300" stroke="#ddd" stroke-width="1"/>
+                                    
+                                    <!-- Y-axis labels -->
+                                    <text x="70" y="70" text-anchor="end" font-size="10" fill="#666">6.0</text>
+                                    <text x="70" y="120" text-anchor="end" font-size="10" fill="#666">4.5</text>
+                                    <text x="70" y="170" text-anchor="end" font-size="10" fill="#666">3.0</text>
+                                    <text x="70" y="220" text-anchor="end" font-size="10" fill="#666">1.5</text>
+                                    <text x="70" y="285" text-anchor="end" font-size="10" fill="#666">0</text>
+                                    <text x="40" y="180" text-anchor="middle" font-size="11" fill="#666" transform="rotate(-90 40 180)">Blood Lactate (mmol/L)</text>
+                                    
+                                    <!-- X-axis labels -->
+                                    <text x="80" y="320" text-anchor="middle" font-size="10" fill="#666">Rest</text>
+                                    <text x="220" y="320" text-anchor="middle" font-size="10" fill="#666">Easy</text>
+                                    <text x="360" y="320" text-anchor="middle" font-size="10" fill="#666">Moderate</text>
+                                    <text x="500" y="320" text-anchor="middle" font-size="10" fill="#666">Hard</text>
+                                    <text x="620" y="320" text-anchor="middle" font-size="10" fill="#666">Max</text>
+                                    <text x="365" y="340" text-anchor="middle" font-size="11" fill="#666">Exercise Intensity →</text>
+                                    
+                                    <!-- Lactate curve -->
+                                    <path d="M 80 280 Q 150 275 220 260 Q 290 240 360 200 Q 430 150 500 100 Q 570 65 620 60" 
+                                          fill="none" stroke="#e74c3c" stroke-width="3"/>
+                                    
+                                    <!-- Baseline -->
+                                    <line x1="80" y1="275" x2="200" y2="265" stroke="#3498db" stroke-width="2" stroke-dasharray="5,5"/>
+                                    
+                                    <!-- LT1 Point -->
+                                    <circle cx="290" cy="240" r="6" fill="#3498db"/>
+                                    <line x1="290" y1="240" x2="290" y2="300" stroke="#3498db" stroke-width="2" stroke-dasharray="3,3"/>
+                                    <text x="290" y="315" text-anchor="middle" font-size="10" fill="#3498db" font-weight="bold">LT1</text>
+                                    <text x="220" y="230" text-anchor="middle" font-size="9" fill="#3498db">Aerobic</text>
+                                    <text x="220" y="242" text-anchor="middle" font-size="9" fill="#3498db">Threshold</text>
+                                    
+                                    <!-- LT2 Point -->
+                                    <circle cx="500" cy="100" r="6" fill="#ff6b35"/>
+                                    <line x1="500" y1="100" x2="500" y2="300" stroke="#ff6b35" stroke-width="2" stroke-dasharray="3,3"/>
+                                    <text x="500" y="315" text-anchor="middle" font-size="10" fill="#ff6b35" font-weight="bold">LT2</text>
+                                    <text x="580" y="130" text-anchor="middle" font-size="9" fill="#ff6b35">Lactate/Anaerobic</text>
+                                    <text x="580" y="142" text-anchor="middle" font-size="9" fill="#ff6b35">Threshold</text>
+                                    
+                                    <!-- Zone labels -->
+                                    <rect x="100" y="85" width="100" height="25" fill="#2ecc71" rx="5" opacity="0.8"/>
+                                    <text x="150" y="102" text-anchor="middle" font-size="10" fill="white" font-weight="bold">Zone 1-2</text>
+                                    
+                                    <rect x="310" y="85" width="100" height="25" fill="#f1c40f" rx="5" opacity="0.8"/>
+                                    <text x="360" y="102" text-anchor="middle" font-size="10" fill="#333" font-weight="bold">Zone 3</text>
+                                    
+                                    <rect x="520" y="85" width="100" height="25" fill="#ff6b35" rx="5" opacity="0.8"/>
+                                    <text x="570" y="102" text-anchor="middle" font-size="10" fill="white" font-weight="bold">Zone 4-5</text>
+                                </svg>
+                            </div>
+                            
+                            <div class="threshold-comparison">
+                                <div class="threshold-box lt1-box">
+                                    <h4><span class="threshold-icon">📉</span> LT1 - Aerobic Threshold (First Threshold)</h4>
+                                    <div class="threshold-content">
+                                        <p><strong>Definition:</strong> The exercise intensity where blood lactate first rises above resting baseline (typically ~1.5-2.0 mmol/L increase)</p>
+                                        <ul>
+                                            <li><strong>Heart Rate:</strong> Usually 70-75% of max HR</li>
+                                            <li><strong>Power/Pace:</strong> Easy endurance pace, can maintain for hours</li>
+                                            <li><strong>Feel:</strong> Comfortable conversation pace, nose breathing possible</li>
+                                            <li><strong>Fuel:</strong> Predominantly fat oxidation</li>
+                                            <li><strong>Training Zone:</strong> Upper limit of Zone 2</li>
+                                        </ul>
+                                        <div class="threshold-importance">
+                                            <strong>Why it matters:</strong> Training below LT1 improves fat burning efficiency and aerobic base without accumulating lactate. Many elite athletes do 80% of training below LT1.
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="threshold-box lt2-box">
+                                    <h4><span class="threshold-icon">📈</span> LT2 - Lactate Threshold (Second Threshold / AnT / FTP)</h4>
+                                    <div class="threshold-content">
+                                        <p><strong>Definition:</strong> The intensity where lactate accumulates faster than clearance (typically 4.0 mmol/L or individual inflection point)</p>
+                                        <ul>
+                                            <li><strong>Heart Rate:</strong> Usually 85-90% of max HR</li>
+                                            <li><strong>Power/Pace:</strong> Maximum sustainable for 30-60 minutes (FTP/CP)</li>
+                                            <li><strong>Feel:</strong> Hard effort, breathing labored, conversation difficult</li>
+                                            <li><strong>Fuel:</strong> High carbohydrate usage, lactate production</li>
+                                            <li><strong>Training Zone:</strong> Lower Zone 4</li>
+                                        </ul>
+                                        <div class="threshold-importance">
+                                            <strong>Why it matters:</strong> LT2 determines your sustainable race pace for time trials, triathlons, and marathons. It's your "red line" - go above it and you'll fatigue quickly.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="coach-note">
+                                <h5><i class="fas fa-lightbulb"></i> Coach's Interpretation Note:</h5>
+                                <p>Every athlete has unique LT1 and LT2 values! A good coach doesn't just give you numbers - they interpret:</p>
+                                <ul>
+                                    <li><strong>The curve shape:</strong> Is it gradual or steep? (Indicates trainability)</li>
+                                    <li><strong>LT1-LT2 gap:</strong> Wide gap = more Zone 2 training needed; Narrow gap = threshold work priority</li>
+                                    <li><strong>Absolute values:</strong> High lactate at LT2 may indicate fast-twitch dominance</li>
+                                    <li><strong>Recovery rate:</strong> How fast lactate clears between intervals</li>
+                                    <li><strong>Individual variation:</strong> Some athletes perform best at 3.5 mmol, others at 5.0 mmol</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" aria-expanded="false">
+                            <span>How do I know which zone I should train in for my goal?</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="training-by-goal">
+                                <div class="goal-card">
+                                    <h4><i class="fas fa-road"></i> Marathon / Long Distance</h4>
+                                    <div class="goal-zones">
+                                        <span class="zone-tag green">Zone 2: 70%</span>
+                                        <span class="zone-tag orange">Zone 4: 20%</span>
+                                        <span class="zone-tag red">Zone 5: 10%</span>
+                                    </div>
+                                    <p>Build massive aerobic base with long Zone 2 runs. Threshold intervals improve marathon pace sustainability. Minimal Zone 3 to avoid "junk miles."</p>
+                                </div>
+                                
+                                <div class="goal-card">
+                                    <h4><i class="fas fa-stopwatch"></i> 5K / 10K / Half Marathon</h4>
+                                    <div class="goal-zones">
+                                        <span class="zone-tag green">Zone 2: 60%</span>
+                                        <span class="zone-tag yellow">Zone 3: 15%</span>
+                                        <span class="zone-tag orange">Zone 4: 20%</span>
+                                        <span class="zone-tag red">Zone 5: 5%</span>
+                                    </div>
+                                    <p>Balance aerobic base with more threshold and tempo work. Zone 4 intervals at LT2 pace are critical.</p>
+                                </div>
+                                
+                                <div class="goal-card">
+                                    <h4><i class="fas fa-bicycle"></i> Cycling FTP Improvement</h4>
+                                    <div class="goal-zones">
+                                        <span class="zone-tag green">Zone 2: 65%</span>
+                                        <span class="zone-tag orange">Zone 4: 25%</span>
+                                        <span class="zone-tag red">Zone 5: 10%</span>
+                                    </div>
+                                    <p>Sweet spot (upper Zone 3) and threshold (Zone 4) work raises FTP. VO2max intervals boost ceiling.</p>
+                                </div>
+                                
+                                <div class="goal-card">
+                                    <h4><i class="fas fa-medal"></i> Triathlon (Olympic/Ironman)</h4>
+                                    <div class="goal-zones">
+                                        <span class="zone-tag blue">Zone 1: 10%</span>
+                                        <span class="zone-tag green">Zone 2: 70%</span>
+                                        <span class="zone-tag orange">Zone 4: 20%</span>
+                                    </div>
+                                    <p>Follow Norwegian 80/20 method. Massive Zone 1-2 volume with polarized high-intensity intervals.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- FAQ Category 2: Norwegian Method -->
+                <div class="faq-category">
+                    <h3 class="category-title"><i class="fas fa-mountain"></i> The Norwegian Training Method</h3>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" aria-expanded="false">
+                            <span>What is the Norwegian method and why are elite athletes using it?</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="norwegian-intro">
+                                <p>The <strong>Norwegian training method</strong> (also called "polarized training" or the "80/20 rule") is a scientifically-backed approach that has produced multiple Olympic champions, world record holders, and Ironman winners from Norway and beyond.</p>
+                            </div>
+                            
+                            <!-- Norwegian Method Visual -->
+                            <div class="norwegian-diagram">
+                                <svg viewBox="0 0 700 400" class="zone-diagram">
+                                    <rect x="0" y="0" width="700" height="400" fill="#f8f9fa" rx="10"/>
+                                    
+                                    <!-- Title -->
+                                    <text x="350" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#004e89">The Norwegian 80/20 Polarized Model</text>
+                                    
+                                    <!-- 80% Low Intensity Section -->
+                                    <rect x="50" y="60" width="440" height="150" fill="#2ecc71" rx="10" opacity="0.9"/>
+                                    <text x="270" y="100" text-anchor="middle" fill="white" font-size="48" font-weight="bold">80%</text>
+                                    <text x="270" y="130" text-anchor="middle" fill="white" font-size="14">Low Intensity</text>
+                                    <text x="270" y="155" text-anchor="middle" fill="white" font-size="12">Zone 1 (Recovery) + Zone 2 (Endurance)</text>
+                                    <text x="270" y="175" text-anchor="middle" fill="rgba(255,255,255,0.9)" font-size="11">Below LT1 - Aerobic Base Building</text>
+                                    
+                                    <!-- Arrow -->
+                                    <path d="M 510 135 L 560 135" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+                                    <defs>
+                                        <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+                                            <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
+                                        </marker>
+                                    </defs>
+                                    
+                                    <!-- 20% High Intensity Section -->
+                                    <rect x="50" y="230" width="110" height="150" fill="#f1c40f" rx="10" opacity="0.9"/>
+                                    <text x="105" y="270" text-anchor="middle" fill="#333" font-size="20" font-weight="bold">~0%</text>
+                                    <text x="105" y="290" text-anchor="middle" fill="#333" font-size="10">Zone 3</text>
+                                    <text x="105" y="310" text-anchor="middle" fill="#666" font-size="9">Avoid</text>
+                                    
+                                    <rect x="175" y="230" width="165" height="150" fill="#ff6b35" rx="10" opacity="0.9"/>
+                                    <text x="257" y="270" text-anchor="middle" fill="white" font-size="20" font-weight="bold">10%</text>
+                                    <text x="257" y="290" text-anchor="middle" fill="white" font-size="10">Zone 4</text>
+                                    <text x="257" y="310" text-anchor="middle" fill="rgba(255,255,255,0.9)" font-size="9">LT2 / Threshold</text>
+                                    
+                                    <rect x="355" y="230" width="135" height="150" fill="#e74c3c" rx="10" opacity="0.9"/>
+                                    <text x="422" y="270" text-anchor="middle" fill="white" font-size="20" font-weight="bold">10%</text>
+                                    <text x="422" y="290" text-anchor="middle" fill="white" font-size="10">Zone 5</text>
+                                    <text x="422" y="310" text-anchor="middle" fill="rgba(255,255,255,0.9)" font-size="9">VO2max / Sprint</text>
+                                    
+                                    <!-- Key principles -->
+                                    <rect x="510" y="70" width="170" height="310" fill="#004e89" rx="10"/>
+                                    <text x="595" y="100" text-anchor="middle" fill="#ff6b35" font-size="14" font-weight="bold">Key Principles</text>
+                                    
+                                    <text x="525" y="135" fill="white" font-size="11">• Keep easy days EASY</text>
+                                    <text x="525" y="160" fill="white" font-size="11">• Make hard days HARD</text>
+                                    <text x="525" y="185" fill="white" font-size="11">• Avoid "gray zone"</text>
+                                    <text x="525" y="210" fill="white" font-size="11">• Double threshold days</text>
+                                    <text x="525" y="235" fill="white" font-size="11">• High volume overall</text>
+                                    
+                                    <text x="595" y="280" text-anchor="middle" fill="#ff6b35" font-size="12" font-weight="bold">Results:</text>
+                                    <text x="525" y="305" fill="white" font-size="10">✓ Less fatigue</text>
+                                    <text x="525" y="325" fill="white" font-size="10">✓ Better recovery</text>
+                                    <text x="525" y="345" fill="white" font-size="10">✓ Higher performance</text>
+                                    <text x="525" y="365" fill="white" font-size="10">✓ Injury prevention</text>
+                                </svg>
+                            </div>
+                            
+                            <div class="norwegian-principles">
+                                <h4>Core Principles of the Norwegian Method:</h4>
+                                <div class="principle-grid">
+                                    <div class="principle-card">
+                                        <h5><span class="principle-number">1</span> 80/20 Intensity Distribution</h5>
+                                        <p>Spend 80% of training time at low intensity (below LT1) and 20% at high intensity (above LT2). Virtually no training in Zone 3 (the "gray zone" or "junk miles").</p>
+                                    </div>
+                                    
+                                    <div class="principle-card">
+                                        <h5><span class="principle-number">2</span> Double Threshold Days</h5>
+                                        <p>Elite Norwegian athletes often do TWO threshold sessions per day (morning and evening), accumulating high-quality Zone 4 volume without excessive stress.</p>
+                                    </div>
+                                    
+                                    <div class="principle-card">
+                                        <h5><span class="principle-number">3</span> Lactate-Guided Training</h5>
+                                        <p>Using frequent lactate testing to ensure they're training in correct zones. If lactate drifts too high during "easy" sessions, intensity is reduced.</p>
+                                    </div>
+                                    
+                                    <div class="principle-card">
+                                        <h5><span class="principle-number">4</span> Polarized Approach</h5>
+                                        <p>Clear separation between easy (Zone 1-2) and hard (Zone 4-5). No "moderately hard" training that creates fatigue without sufficient stimulus.</p>
+                                    </div>
+                                    
+                                    <div class="principle-card">
+                                        <h5><span class="principle-number">5</span> High Volume, Low Stress</h5>
+                                        <p>20-30+ hours/week for elites, but 80% is conversational pace. This builds massive aerobic capacity without burnout.</p>
+                                    </div>
+                                    
+                                    <div class="principle-card">
+                                        <h5><span class="principle-number">6</span> Individual Threshold Monitoring</h5>
+                                        <p>Regular lactate testing (every 4-6 weeks) to track progress and adjust zones. Thresholds change as fitness improves!</p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="norwegian-example">
+                                <h4><i class="fas fa-running"></i> Example Norwegian Method Week (Elite Triathlete):</h4>
+                                <div class="week-schedule">
+                                    <div class="day-row">
+                                        <span class="day">Monday</span>
+                                        <span class="sessions">
+                                            <span class="session easy">AM: 90min Zone 2 run</span>
+                                            <span class="session hard">PM: 5x10min @ LT2 (Zone 4) bike</span>
+                                        </span>
+                                    </div>
+                                    <div class="day-row">
+                                        <span class="day">Tuesday</span>
+                                        <span class="sessions">
+                                            <span class="session easy">AM: 60min Zone 2 swim</span>
+                                            <span class="session easy">PM: 120min Zone 2 bike</span>
+                                        </span>
+                                    </div>
+                                    <div class="day-row">
+                                        <span class="day">Wednesday</span>
+                                        <span class="sessions">
+                                            <span class="session hard">AM: 8x5min @ LT2 run intervals</span>
+                                            <span class="session hard">PM: 6x8min @ LT2 bike intervals</span>
+                                        </span>
+                                    </div>
+                                    <div class="day-row">
+                                        <span class="day">Thursday</span>
+                                        <span class="sessions">
+                                            <span class="session easy">AM: 90min Zone 2 run</span>
+                                            <span class="session easy">PM: 90min Zone 2 swim</span>
+                                        </span>
+                                    </div>
+                                    <div class="day-row">
+                                        <span class="day">Friday</span>
+                                        <span class="sessions">
+                                            <span class="session rest">REST or 30min Zone 1 recovery</span>
+                                        </span>
+                                    </div>
+                                    <div class="day-row">
+                                        <span class="day">Saturday</span>
+                                        <span class="sessions">
+                                            <span class="session hard">Long brick: 3hr Zone 2-3 bike + 45min Zone 4 run</span>
+                                        </span>
+                                    </div>
+                                    <div class="day-row">
+                                        <span class="day">Sunday</span>
+                                        <span class="sessions">
+                                            <span class="session easy">3hr Zone 2 long run</span>
+                                        </span>
+                                    </div>
+                                </div>
+                                <p class="week-total"><strong>Weekly Total:</strong> ~20-25 hours | <strong>Zone 1-2:</strong> 80% | <strong>Zone 4-5:</strong> 20% | <strong>Zone 3:</strong> &lt;5%</p>
+                            </div>
+                            
+                            <div class="norwegian-science">
+                                <h4><i class="fas fa-microscope"></i> The Science Behind Norwegian Success:</h4>
+                                <ul>
+                                    <li><strong>Study (Stöggl & Sperlich, 2014):</strong> Polarized training improved VO2max by 11.7% vs 4.8% for threshold-focused training</li>
+                                    <li><strong>Ingebrigtsen Brothers:</strong> Multiple Olympic medals using strict 80/20 approach with lactate monitoring</li>
+                                    <li><strong>Gustav Iden (Ironman World Champ):</strong> Trains 30+ hours/week, 80% below LT1, double threshold days</li>
+                                    <li><strong>Research:</strong> Zone 3 creates "interference effect" - too hard for recovery, too easy for adaptation</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" aria-expanded="false">
+                            <span>What's the "gray zone" and why should I avoid it?</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="gray-zone-explanation">
+                                <p>The <strong>"gray zone"</strong> (also called "junk miles" or "Zone 3 purgatory") is training at a moderate intensity that's too hard for proper aerobic development but too easy for high-intensity adaptation.</p>
+                                
+                                <div class="gray-zone-visual">
+                                    <svg viewBox="0 0 600 200" class="zone-diagram">
+                                        <rect x="0" y="0" width="600" height="200" fill="#f8f9fa" rx="10"/>
+                                        
+                                        <!-- Zones -->
+                                        <rect x="50" y="60" width="120" height="100" fill="#2ecc71" rx="5"/>
+                                        <text x="110" y="95" text-anchor="middle" fill="white" font-size="12" font-weight="bold">Zone 1-2</text>
+                                        <text x="110" y="115" text-anchor="middle" fill="white" font-size="10">GOOD ✓</text>
+                                        <text x="110" y="135" text-anchor="middle" fill="white" font-size="9">Builds base</text>
+                                        
+                                        <rect x="190" y="60" width="120" height="100" fill="#95a5a6" rx="5"/>
+                                        <text x="250" y="85" text-anchor="middle" fill="white" font-size="12" font-weight="bold">Zone 3</text>
+                                        <text x="250" y="108" text-anchor="middle" fill="#e74c3c" font-size="14" font-weight="bold">GRAY ZONE</text>
+                                        <text x="250" y="130" text-anchor="middle" fill="white" font-size="9">AVOID ✗</text>
+                                        <text x="250" y="145" text-anchor="middle" fill="white" font-size="8">Junk miles</text>
+                                        
+                                        <rect x="330" y="60" width="110" height="100" fill="#ff6b35" rx="5"/>
+                                        <text x="385" y="95" text-anchor="middle" fill="white" font-size="12" font-weight="bold">Zone 4</text>
+                                        <text x="385" y="115" text-anchor="middle" fill="white" font-size="10">GOOD ✓</text>
+                                        <text x="385" y="135" text-anchor="middle" fill="white" font-size="9">Threshold</text>
+                                        
+                                        <rect x="460" y="60" width="100" height="100" fill="#e74c3c" rx="5"/>
+                                        <text x="510" y="95" text-anchor="middle" fill="white" font-size="12" font-weight="bold">Zone 5</text>
+                                        <text x="510" y="115" text-anchor="middle" fill="white" font-size="10">GOOD ✓</text>
+                                        <text x="510" y="135" text-anchor="middle" fill="white" font-size="9">VO2max</text>
+                                        
+                                        <!-- Labels -->
+                                        <text x="110" y="180" text-anchor="middle" font-size="10" fill="#2ecc71">Low Stress</text>
+                                        <text x="385" y="180" text-anchor="middle" font-size="10" fill="#ff6b35">High Stress</text>
+                                        <text x="510" y="180" text-anchor="middle" font-size="10" fill="#e74c3c">Max Stress</text>
+                                        
+                                        <!-- Warning -->
+                                        <text x="250" y="40" text-anchor="middle" font-size="11" fill="#e74c3c" font-weight="bold">⚠️ Too hard to recover, too easy to adapt</text>
+                                    </svg>
+                                </div>
+                                
+                                <div class="gray-zone-problems">
+                                    <h5>Problems with Gray Zone Training:</h5>
+                                    <div class="problem-grid">
+                                        <div class="problem-item">
+                                            <span class="problem-icon">😴</span>
+                                            <h6>Insufficient Recovery</h6>
+                                            <p>Creates too much fatigue for next hard session</p>
+                                        </div>
+                                        <div class="problem-item">
+                                            <span class="problem-icon">📉</span>
+                                            <h6>Poor Adaptation</h6>
+                                            <p>Not hard enough to stimulate VO2max or threshold improvements</p>
+                                        </div>
+                                        <div class="problem-item">
+                                            <span class="problem-icon">⏱️</span>
+                                            <h6>Time Inefficient</h6>
+                                            <p>Same time investment, less physiological return</p>
+                                        </div>
+                                        <div class="problem-item">
+                                            <span class="problem-icon">🤕</span>
+                                            <h6>Injury Risk</h6>
+                                            <p>Accumulated fatigue increases overuse injury risk</p>
+                                        </div>
+                                        <div class="problem-item">
+                                            <span class="problem-icon">😤</span>
+                                            <h6>Stagnation</h6>
+                                            <p>Chronic gray zone training leads to performance plateaus</p>
+                                        </div>
+                                        <div class="problem-item">
+                                            <span class="problem-icon">🧠</span>
+                                            <h6>Mental Burnout</h6>
+                                            <p>Constant "moderately hard" effort is mentally draining</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="gray-zone-solution">
+                                    <h5><i class="fas fa-check-circle"></i> The Solution: Polarize Your Training</h5>
+                                    <ul>
+                                        <li><strong>Easy days:</strong> Truly easy (Zone 1-2, can hold conversation)</li>
+                                        <li><strong>Hard days:</strong> Truly hard (Zone 4-5, breathing hard, focused)</li>
+                                        <li><strong>Avoid:</strong> The middle ground where you're working but not adapting</li>
+                                        <li><strong>Monitor:</strong> Use lactate testing to confirm you're in right zones</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" aria-expanded="false">
+                            <span>How often should I test my lactate thresholds?</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="testing-schedule">
+                                <h4>Recommended Testing Frequency:</h4>
+                                <div class="schedule-grid">
+                                    <div class="schedule-card beginner">
+                                        <h5><i class="fas fa-seedling"></i> Beginners / Base Building</h5>
+                                        <div class="frequency">Every 8-12 weeks</div>
+                                        <p>Focus on building consistency first. Test quarterly to track aerobic base development.</p>
+                                    </div>
+                                    <div class="schedule-card intermediate">
+                                        <h5><i class="fas fa-chart-line"></i> Intermediate / Building Phase</h5>
+                                        <div class="frequency">Every 6-8 weeks</div>
+                                        <p>Fitness changes faster during build phases. Bi-monthly testing ensures zones stay accurate.</p>
+                                    </div>
+                                    <div class="schedule-card advanced">
+                                        <h5><i class="fas fa-trophy"></i> Advanced / Race Prep</h5>
+                                        <div class="frequency">Every 4-6 weeks</div>
+                                        <p>High training loads change thresholds rapidly. Monthly testing during race season.</p>
+                                    </div>
+                                    <div class="schedule-card elite">
+                                        <h5><i class="fas fa-star"></i> Elite / Norwegian Method</h5>
+                                        <div class="frequency">Every 2-4 weeks</div>
+                                        <p>Elite athletes test frequently to maintain precise zone boundaries (some test weekly!)</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="testing-triggers">
+                                    <h5><i class="fas fa-bell"></i> Test Immediately If:</h5>
+                                    <ul>
+                                        <li>✓ You completed a major training block (6+ weeks)</li>
+                                        <li>✓ You took 2+ weeks off (illness, vacation, injury)</li>
+                                        <li>✓ Your race performance significantly improved or declined</li>
+                                        <li>✓ Heart rate at usual pace has changed noticeably</li>
+                                        <li>✓ You're starting a new training phase (base → build → peak)</li>
+                                        <li>✓ You're switching sports (e.g., cycling focus to triathlon)</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- FAQ Category 3: Testing & Services -->
+                <div class="faq-category">
+                    <h3 class="category-title"><i class="fas fa-flask"></i> Our Testing Services</h3>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" aria-expanded="false">
+                            <span>What happens during a lactate threshold test?</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="test-process">
+                                <h4>Your Lactate Threshold Test Experience:</h4>
+                                <div class="process-steps">
+                                    <div class="step">
+                                        <div class="step-number">1</div>
+                                        <h5>Pre-Test Preparation</h5>
+                                        <ul>
+                                            <li>No intense exercise 24 hours before</li>
+                                            <li>Well-hydrated and rested</li>
+                                            <li>Wear comfortable athletic clothing</li>
+                                            <li>Bring your bike (for cycling test) or running shoes</li>
+                                        </ul>
+                                    </div>
+                                    <div class="step">
+                                        <div class="step-number">2</div>
+                                        <h5>Warm-Up & Baseline</h5>
+                                        <ul>
+                                            <li>10-15 minute easy warm-up</li>
+                                            <li>Resting lactate measurement (finger prick)</li>
+                                            <li>Heart rate monitor setup</li>
+                                            <li>Power meter or pace device calibration</li>
+                                        </ul>
+                                    </div>
+                                    <div class="step">
+                                        <div class="step-number">3</div>
+                                        <h5>Progressive Test</h5>
+                                        <ul>
+                                            <li>Start at easy intensity (Zone 1)</li>
+                                            <li>Increase every 3-4 minutes</li>
+                                            <li>Lactate sample at each stage</li>
+                                            <li>Record HR, power/pace, perceived effort</li>
+                                            <li>Continue until exhaustion (8-12 stages)</li>
+                                        </ul>
+                                    </div>
+                                    <div class="step">
+                                        <div class="step-number">4</div>
+                                        <h5>Data Analysis</h5>
+                                        <ul>
+                                            <li>Plot lactate vs. power/pace curve</li>
+                                            <li>Identify LT1 and LT2 inflection points</li>
+                                            <li>Calculate heart rate zones</li>
+                                            <li>Determine FTP/CP (cycling) or threshold pace</li>
+                                        </ul>
+                                    </div>
+                                    <div class="step">
+                                        <div class="step-number">5</div>
+                                        <h5>Consultation & Plan</h5>
+                                        <ul>
+                                            <li>Review your personalized results</li>
+                                            <li>Explain your unique lactate curve</li>
+                                            <li>Provide training zone prescription</li>
+                                            <li>Discuss Norwegian method application</li>
+                                            <li>Recommend testing frequency</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                
+                                <div class="test-deliverables">
+                                    <h5><i class="fas fa-file-medical-alt"></i> What You Receive:</h5>
+                                    <ul class="deliverable-list">
+                                        <li><i class="fas fa-check"></i> Detailed lactate curve graph</li>
+                                        <li><i class="fas fa-check"></i> LT1 and LT2 values (HR, power/pace)</li>
+                                        <li><i class="fas fa-check"></i> All 5 training zones calculated</li>
+                                        <li><i class="fas fa-check"></i> FTP/CP estimate (cycling) or threshold pace</li>
+                                        <li><i class="fas fa-check"></i> VO2max estimate</li>
+                                        <li><i class="fas fa-check"></i> Personalized training recommendations</li>
+                                        <li><i class="fas fa-check"></i> PDF report with all data</li>
+                                        <li><i class="fas fa-check"></i> 30-minute consultation</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" aria-expanded="false">
+                            <span>How does the sweat test work and why is it important?</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="sweat-test-info">
+                                <p>Sweat testing measures your individual sweat rate and electrolyte loss to create personalized hydration strategies. <strong>One-size-fits-all hydration plans fail because every athlete loses sodium at different rates!</strong></p>
+                                
+                                <div class="sweat-diagram">
+                                    <svg viewBox="0 0 700 300" class="zone-diagram">
+                                        <rect x="0" y="0" width="700" height="300" fill="#f8f9fa" rx="10"/>
+                                        
+                                        <!-- Title -->
+                                        <text x="350" y="25" text-anchor="middle" font-size="16" font-weight="bold" fill="#004e89">Personalized Hydration Strategy</text>
+                                        
+                                        <!-- Before Test -->
+                                        <rect x="50" y="50" width="280" height="230" fill="#fff" stroke="#ddd" stroke-width="2" rx="10"/>
+                                        <text x="190" y="75" text-anchor="middle" font-size="14" font-weight="bold" fill="#e74c3c">❌ GUESSWORK</text>
+                                        <text x="190" y="100" text-anchor="middle" font-size="11" fill="#666">• Drink when thirsty</text>
+                                        <text x="190" y="120" text-anchor="middle" font-size="11" fill="#666">• Generic sports drink</text>
+                                        <text x="190" y="140" text-anchor="middle" font-size="11" fill="#666">• 1 bottle per hour?</text>
+                                        <text x="190" y="160" text-anchor="middle" font-size="11" fill="#666">• Risk: Dehydration OR</text>
+                                        <text x="190" y="180" text-anchor="middle" font-size="11" fill="#666">  hyponatremia</text>
+                                        <text x="190" y="210" text-anchor="middle" font-size="10" fill="#e74c3c">Result: Bonk, cramps,</text>
+                                        <text x="190" y="225" text-anchor="middle" font-size="10" fill="#e74c3c">or GI distress</text>
+                                        
+                                        <!-- Arrow -->
+                                        <path d="M 350 165 L 370 165" stroke="#ff6b35" stroke-width="3" marker-end="url(#arrow2)"/>
+                                        <defs>
+                                            <marker id="arrow2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+                                                <polygon points="0 0, 10 3.5, 0 7" fill="#ff6b35"/>
+                                            </marker>
+                                        </defs>
+                                        
+                                        <!-- After Test -->
+                                        <rect x="370" y="50" width="280" height="230" fill="#e8f6f3" stroke="#2ecc71" stroke-width="2" rx="10"/>
+                                        <text x="510" y="75" text-anchor="middle" font-size="14" font-weight="bold" fill="#2ecc71">✓ SCIENTIFIC</text>
+                                        <text x="510" y="100" text-anchor="middle" font-size="11" fill="#333">• Sweat rate: 1.2L/hr</text>
+                                        <text x="510" y="120" text-anchor="middle" font-size="11" fill="#333">• Sodium loss: 920mg/L</text>
+                                        <text x="510" y="140" text-anchor="middle" font-size="11" fill="#333">• Pre-load: 500ml + salt</text>
+                                        <text x="510" y="160" text-anchor="middle" font-size="11" fill="#333">• During: 200ml/15min</text>
+                                        <text x="510" y="180" text-anchor="middle" font-size="11" fill="#333">• Custom electrolyte mix</text>
+                                        <text x="510" y="210" text-anchor="middle" font-size="10" fill="#2ecc71">Result: Optimal performance,</text>
+                                        <text x="510" y="225" text-anchor="middle" font-size="10" fill="#2ecc71">no cramps, sustained power</text>
+                                    </svg>
+                                </div>
+                                
+                                <div class="sweat-metrics">
+                                    <h5>What We Measure:</h5>
+                                    <div class="metrics-grid">
+                                        <div class="metric">
+                                            <span class="metric-icon">💧</span>
+                                            <h6>Sweat Rate</h6>
+                                            <p>Liters lost per hour at race intensity (0.5L to 3L+ range)</p>
+                                        </div>
+                                        <div class="metric">
+                                            <span class="metric-icon">🧂</span>
+                                            <h6>Sodium Concentration</h6>
+                                            <p>mg per liter of sweat (200mg to 2000mg+ - huge variation!)</p>
+                                        </div>
+                                        <div class="metric">
+                                            <span class="metric-icon">⚡</span>
+                                            <h6>Potassium Levels</h6>
+                                            <p>Important for muscle function and cramp prevention</p>
+                                        </div>
+                                        <div class="metric">
+                                            <span class="metric-icon">🌡️</span>
+                                            <h6>Skin Temperature</h6>
+                                            <p>Thermoregulation efficiency and heat adaptation</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="hydration-strategy">
+                                    <h5><i class="fas fa-flask"></i> Your Personalized Strategy Includes:</h5>
+                                    <ul>
+                                        <li><strong>Pre-Exercise:</strong> Exact fluid and sodium pre-loading protocol</li>
+                                        <li><strong>During Exercise:</strong> Hourly fluid and electrolyte targets based on your sweat rate</li>
+                                        <li><strong>Post-Exercise:</strong> Rehydration calculations for rapid recovery</li>
+                                        <li><strong>Environmental Adjustments:</strong> Hot weather vs. cool weather modifications</li>
+                                        <li><strong>Race Day Plan:</strong> Specific aid station timing and product recommendations</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" aria-expanded="false">
+                            <span>What's included in the personalized coaching program?</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="coaching-details">
+                                <h4>Norwegian Method Personalized Coaching:</h4>
+                                <div class="coaching-components">
+                                    <div class="component">
+                                        <h5><i class="fas fa-dna"></i> Physiological Profiling</h5>
+                                        <ul>
+                                            <li>Complete lactate threshold testing (LT1, LT2)</li>
+                                            <li>Sweat analysis for hydration optimization</li>
+                                            <li>Review of DNA data (if available)</li>
+                                            <li>Blood work analysis (metabolic markers)</li>
+                                            <li>Heart Rate Variability (HRV) assessment</li>
+                                            <li>Sleep quality evaluation</li>
+                                        </ul>
+                                    </div>
+                                    <div class="component">
+                                        <h5><i class="fas fa-calendar-alt"></i> Custom Training Plans</h5>
+                                        <ul>
+                                            <li>80/20 polarized periodization</li>
+                                            <li>Personalized zone calculations</li>
+                                            <li>Daily workouts with specific targets</li>
+                                            <li>Double threshold sessions (when appropriate)</li>
+                                            <li>Rest day scheduling based on HRV</li>
+                                            <li>Race-specific taper protocols</li>
+                                        </ul>
+                                    </div>
+                                    <div class="component">
+                                        <h5><i class="fas fa-chart-bar"></i> Ongoing Analysis</h5>
+                                        <ul>
+                                            <li>Weekly training load review</li>
+                                            <li>Zone compliance monitoring</li>
+                                            <li>Fitness (CTL) and fatigue (ATL) tracking</li>
+                                            <li>Form (TSB) optimization for races</li>
+                                            <li>Lactate re-testing every 4-6 weeks</li>
+                                            <li>Performance trend analysis</li>
+                                        </ul>
+                                    </div>
+                                    <div class="component">
+                                        <h5><i class="fas fa-comments"></i> Coach Support</h5>
+                                        <ul>
+                                            <li>Weekly video/phone consultations</li>
+                                            <li>WhatsApp/text support (same-day response)</li>
+                                            <li>Workout file analysis (power/pace data)</li>
+                                            <li>Race day strategy planning</li>
+                                            <li>Nutrition and hydration guidance</li>
+                                            <li>Injury prevention recommendations</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                
+                                <div class="coaching-software">
+                                    <h5><i class="fas fa-laptop"></i> Tools & Technology:</h5>
+                                    <p>We use TrainingPeaks, Strava, and 80/20 Endurance methodology to deliver elite-level coaching. Your training plan syncs to your devices (Garmin, Wahoo, etc.) with specific targets for every interval.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- FAQ Category 4: General Questions -->
+                <div class="faq-category">
+                    <h3 class="category-title"><i class="fas fa-question-circle"></i> General Questions</h3>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" aria-expanded="false">
+                            <span>Who can benefit from lactate testing?</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="beneficiaries">
+                                <h4>Anyone training with purpose can benefit:</h4>
+                                <div class="beneficiary-grid">
+                                    <div class="beneficiary">
+                                        <i class="fas fa-running"></i>
+                                        <h5>Runners</h5>
+                                        <p>5K to ultra-marathon. Determine threshold pace, optimal long run pace, and interval targets.</p>
+                                    </div>
+                                    <div class="beneficiary">
+                                        <i class="fas fa-bicycle"></i>
+                                        <h5>Cyclists</h5>
+                                        <p>Road, MTB, gravel. Find FTP/CP, set power zones, structure interval workouts.</p>
+                                    </div>
+                                    <div class="beneficiary">
+                                        <i class="fas fa-swimmer"></i>
+                                        <h5>Triathletes</h5>
+                                        <p>Essential for managing fatigue across three sports. Optimize training distribution.</p>
+                                    </div>
+                                    <div class="beneficiary">
+                                        <i class="fas fa-dumbbell"></i>
+                                        <h5>CrossFit/HIIT</h5>
+                                        <p>Understand work capacity, optimize metcon pacing, improve conditioning.</p>
+                                    </div>
+                                    <div class="beneficiary">
+                                        <i class="fas fa-user-friends"></i>
+                                        <h5>Beginners</h5>
+                                        <p>Learn to train by feel with data backup. Prevent overtraining early.</p>
+                                    </div>
+                                    <div class="beneficiary">
+                                        <i class="fas fa-crown"></i>
+                                        <h5>Elite Athletes</h5>
+                                        <p>Fine-tune periodization, track adaptation, optimize taper.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" aria-expanded="false">
+                            <span>Is the lactate test painful or invasive?</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <div class="faq-answer">
+                            <p><strong>Not at all!</strong> The test involves small finger pricks (similar to blood glucose testing) to collect tiny blood samples. Most athletes feel:</p>
+                            <ul>
+                                <li>Slight pinch sensation during prick (less than a mosquito bite)</li>
+                                <li>No lingering pain or discomfort</li>
+                                <li>No downtime - you can train normally afterward</li>
+                                <li>Safe and used by everyone from recreational to Olympic athletes</li>
+                            </ul>
+                            <p>The test itself is a progressive workout, so you'll be focused on the exercise, not the finger pricks!</p>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" aria-expanded="false">
+                            <span>How accurate are consumer wearables compared to lab testing?</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="wearable-comparison">
+                                <h4>Consumer Wearable vs. Lab Testing Accuracy:</h4>
+                                <table class="comparison-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Metric</th>
+                                            <th>Consumer Watch</th>
+                                            <th>Lab Testing</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Heart Rate</td>
+                                            <td>±5-10 bpm</td>
+                                            <td>±1 bpm (ECG chest strap)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>VO2max Estimate</td>
+                                            <td>±10-15% error</td>
+                                            <td>Gold standard</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Lactate Threshold</td>
+                                            <td>❌ Cannot measure</td>
+                                            <td>Direct measurement</td>
+                                        </tr>
+                                        <tr>
+                                            <td>LT1 & LT2 Zones</td>
+                                            <td>❌ Cannot determine</td>
+                                            <td>Accurate inflection points</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Sweat Sodium</td>
+                                            <td>❌ Cannot measure</td>
+                                            <td>Lab analysis</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Training Zones</td>
+                                            <td>Formula estimates</td>
+                                            <td>Individualized from data</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <p class="comparison-note"><strong>Bottom line:</strong> Wearables are great for tracking trends, but only direct lactate testing gives you accurate, personalized zones. We recommend using both - lab testing for zone calibration, wearables for daily monitoring.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" aria-expanded="false">
+                            <span>What's your cancellation/rescheduling policy?</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                        <div class="faq-answer">
+                            <p>We understand training and life can be unpredictable:</p>
+                            <ul>
+                                <li><strong>24+ hours notice:</strong> Free rescheduling or full refund</li>
+                                <li><strong>Same-day cancellation:</strong> 50% refund (we can often fill the slot)</li>
+                                <li><strong>No-show:</strong> No refund, but credit toward future test</li>
+                                <li><strong>Weather-related:</strong> Full refund or reschedule for outdoor tests</li>
+                                <li><strong>Illness:</strong> Reschedule anytime with doctor's note - no penalty</li>
+                            </ul>
+                            <p>We want you at your best for testing - tired or sick athletes produce unreliable data. If you're not feeling ready, let's reschedule!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- ===== TRAINING ZONE CALCULATOR ===== -->
+            <div class="zone-calculator-section" id="zone-calculator">
+                <h3 class="calculator-title"><i class="fas fa-calculator"></i> Training Zone Calculator</h3>
+                <p class="calculator-intro">Enter your maximum heart rate to estimate your training zones. For accurate, personalized zones based on your lactate thresholds, book a professional test with us!</p>
+                
+                <div class="calculator-container">
+                    <div class="calculator-inputs">
+                        <div class="input-group">
+                            <label for="max-hr">Maximum Heart Rate</label>
+                            <input type="number" id="max-hr" placeholder="e.g., 185" min="120" max="220">
+                            <small>bpm</small>
+                        </div>
+                        <div class="input-group">
+                            <label for="resting-hr">Resting Heart Rate (Optional)</label>
+                            <input type="number" id="resting-hr" placeholder="e.g., 55" min="30" max="100">
+                            <small>bpm</small>
+                        </div>
+                    </div>
+                    
+                    <div class="calculator-results" id="calculator-results">
+                        <h4>Your Estimated Training Zones</h4>
+                        <div class="results-grid">
+                            <div class="result-card zone1">
+                                <span class="result-zone">Zone 1</span>
+                                <span class="result-range" id="zone1-range">--</span>
+                                <span class="result-label">Recovery</span>
+                            </div>
+                            <div class="result-card zone2">
+                                <span class="result-zone">Zone 2</span>
+                                <span class="result-range" id="zone2-range">--</span>
+                                <span class="result-label">Aerobic</span>
+                            </div>
+                            <div class="result-card zone3">
+                                <span class="result-zone">Zone 3</span>
+                                <span class="result-range" id="zone3-range">--</span>
+                                <span class="result-label">Tempo</span>
+                            </div>
+                            <div class="result-card zone4">
+                                <span class="result-zone">Zone 4</span>
+                                <span class="result-range" id="zone4-range">--</span>
+                                <span class="result-label">Threshold</span>
+                            </div>
+                            <div class="result-card zone5">
+                                <span class="result-zone">Zone 5</span>
+                                <span class="result-range" id="zone5-range">--</span>
+                                <span class="result-label">VO2max</span>
+                            </div>
+                        </div>
+                        <div class="calculator-disclaimer">
+                            <i class="fas fa-info-circle"></i>
+                            <strong>Note:</strong> These are estimates based on maximum heart rate. For accurate, personalized training zones based on your lactate thresholds (LT1, LT2) and the Norwegian method, schedule a professional lactate threshold test with us.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Still Have Questions CTA -->
+            <div class="faq-cta">
+                <h3>Still have questions?</h3>
+                <p>We're here to help you understand your data and optimize your training. Reach out directly!</p>
+                <div class="faq-buttons">
+                    <a href="#contact" class="btn-secondary"><i class="fas fa-envelope"></i> Send Message</a>
+                    <a href="https://wa.me/13055551234" class="btn-whatsapp" target="_blank" rel="noopener noreferrer">
+                        <i class="fab fa-whatsapp"></i> WhatsApp Direct
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== WHATSAPP FLOATING BUTTON ===== -->
+    <a href="https://wa.me/13055551234" class="whatsapp-float" target="_blank" rel="noopener noreferrer" aria-label="Chat on WhatsApp">
+        <i class="fab fa-whatsapp"></i>
+        <span class="whatsapp-tooltip">Chat with us!</span>
+    </a>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Miami Endurance Testing</h4>
+                    <p>Scientific athletic performance testing for endurance athletes.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="#services">Services</a></li>
+                        <li><a href="#pricing">Pricing</a></li>
+                        <li><a href="#products">Products</a></li>
+                        <li><a href="#team">Team</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Connect</h4>
+                    <div class="social-links">
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-youtube"></i></a>
+                        <a href="#"><i class="fab fa-facebook"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Miami Endurance Testing. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

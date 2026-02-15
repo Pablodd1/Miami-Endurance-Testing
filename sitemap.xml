@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  
+  <!-- Homepage - Highest Priority -->
+  <url>
+    <loc>https://miamiendurancetesting.com/</loc>
+    <lastmod>2024-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=1600</image:loc>
+      <image:title>Athlete undergoing lactate threshold testing at Miami Endurance Testing</image:title>
+      <image:caption>Scientific endurance testing laboratory in Miami</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=1600</video:thumbnail_loc>
+      <video:title>Miami Endurance Testing - Hero Video</video:title>
+      <video:description>Elite athletic performance testing using the Norwegian method</video:description>
+      <video:content_loc>https://assets.mixkit.co/videos/preview/mixkit-runner-at-sunset-on-a-hill-4207-large.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  
+  <!-- Services Section Anchor -->
+  <url>
+    <loc>https://miamiendurancetesting.com/#services</loc>
+    <lastmod>2024-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Pricing Section Anchor -->
+  <url>
+    <loc>https://miamiendurancetesting.com/#pricing</loc>
+    <lastmod>2024-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- FAQ Section - Important for SEO -->
+  <url>
+    <loc>https://miamiendurancetesting.com/#faq</loc>
+    <lastmod>2024-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=1200</image:loc>
+      <image:title>Training Zones 1-5 Diagram - Miami Endurance Testing FAQ</image:title>
+      <image:caption>Visual guide to heart rate training zones and lactate thresholds</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Testimonials Section -->
+  <url>
+    <loc>https://miamiendurancetesting.com/#testimonials</loc>
+    <lastmod>2024-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Authority Section -->
+  <url>
+    <loc>https://miamiendurancetesting.com/#authority</loc>
+    <lastmod>2024-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Contact Section -->
+  <url>
+    <loc>https://miamiendurancetesting.com/#contact</loc>
+    <lastmod>2024-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Products Section -->
+  <url>
+    <loc>https://miamiendurancetesting.com/#products</loc>
+    <lastmod>2024-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Team Section -->
+  <url>
+    <loc>https://miamiendurancetesting.com/#team</loc>
+    <lastmod>2024-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
