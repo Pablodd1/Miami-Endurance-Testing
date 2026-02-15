@@ -248,6 +248,107 @@
         </div>
     </section>
 
+    <!-- Training Zone Calculator Section -->
+    <section class="calculator-section">
+        <div class="container">
+            <h2 class="section-title" data-en="TRAINING ZONE CALCULATOR" data-es="CALCULADORA DE ZONAS">TRAINING ZONE CALCULATOR</h2>
+            <p class="section-subtitle" data-en="Enter your maximum heart rate to calculate your personalized training zones" data-es="Ingresa tu frecuencia cardíaca máxima para calcular tus zonas personalizadas">Enter your maximum heart rate to calculate your personalized training zones</p>
+            
+            <div class="calculator-container neumorph-card">
+                <div class="calculator-inputs">
+                    <div class="input-group">
+                        <label for="max-hr" data-en="Maximum Heart Rate (bpm)" data-es="Frecuencia Cardíaca Máxima (lpm)">Maximum Heart Rate (bpm)</label>
+                        <input type="number" id="max-hr" class="neumorph-input" placeholder="e.g., 185" min="100" max="250">
+                    </div>
+                    <button id="calculate-zones" class="btn-primary neumorph-btn" data-en="Calculate Zones" data-es="Calcular Zonas">Calculate Zones</button>
+                    <p style="font-size: 0.9rem; color: var(--text-secondary); margin-top: 15px;" data-en="Tip: Estimate your max HR with 220 - your age" data-es="Consejo: Estima tu FC máxima con 220 - tu edad">Tip: Estimate your max HR with 220 - your age</p>
+                </div>
+                
+                <div class="calculator-results">
+                    <div class="zone-result">
+                        <span class="zone-result-label">Zone 1:</span>
+                        <span id="zone1-range" class="zone-result-value">--</span>
+                    </div>
+                    <div class="zone-result">
+                        <span class="zone-result-label">Zone 2:</span>
+                        <span id="zone2-range" class="zone-result-value">--</span>
+                    </div>
+                    <div class="zone-result">
+                        <span class="zone-result-label">Zone 3:</span>
+                        <span id="zone3-range" class="zone-result-value">--</span>
+                    </div>
+                    <div class="zone-result">
+                        <span class="zone-result-label">Zone 4:</span>
+                        <span id="zone4-range" class="zone-result-value">--</span>
+                    </div>
+                    <div class="zone-result">
+                        <span class="zone-result-label">Zone 5:</span>
+                        <span id="zone5-range" class="zone-result-value">--</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq">
+        <div class="container">
+            <h2 class="section-title" data-en="FREQUENTLY ASKED QUESTIONS" data-es="PREGUNTAS FRECUENTES">FREQUENTLY ASKED QUESTIONS</h2>
+            
+            <div class="faq-container">
+                <div class="faq-item">
+                    <button class="faq-question" aria-expanded="false">
+                        <span data-en="How should I prepare for a lactate test?" data-es="¿Cómo debo prepararme para una prueba de lactato?">How should I prepare for a lactate test?</span>
+                        <i class="fas fa-chevron-down"></i>
+                    </button>
+                    <div class="faq-answer">
+                        <p data-en="Avoid intense exercise 24 hours before the test, eat a light meal 2-3 hours prior, stay hydrated, and bring your running shoes and comfortable workout clothes." data-es="Evita ejercicio intenso 24 horas antes de la prueba, come una comida ligera 2-3 horas antes, mantente hidratado y trae tus zapatillas de correr y ropa deportiva cómoda.">Avoid intense exercise 24 hours before the test, eat a light meal 2-3 hours prior, stay hydrated, and bring your running shoes and comfortable workout clothes.</p>
+                    </div>
+                </div>
+                
+                <div class="faq-item">
+                    <button class="faq-question" aria-expanded="false">
+                        <span data-en="How long does a VO2max test take?" data-es="¿Cuánto tiempo dura una prueba de VO2max?">How long does a VO2max test take?</span>
+                        <i class="fas fa-chevron-down"></i>
+                    </button>
+                    <div class="faq-answer">
+                        <p data-en="The VO2max test typically takes 10-20 minutes of progressive exercise, plus 15-20 minutes for setup, warm-up, and cool-down. Total appointment time is about 45 minutes." data-es="La prueba de VO2max típicamente toma 10-20 minutos de ejercicio progresivo, más 15-20 minutos para preparación, calentamiento y enfriamiento. El tiempo total de la cita es de aproximadamente 45 minutos.">The VO2max test typically takes 10-20 minutes of progressive exercise, plus 15-20 minutes for setup, warm-up, and cool-down. Total appointment time is about 45 minutes.</p>
+                    </div>
+                </div>
+                
+                <div class="faq-item">
+                    <button class="faq-question" aria-expanded="false">
+                        <span data-en="Can I get tested at my home or office?" data-es="¿Puedo hacer la prueba en mi casa u oficina?">Can I get tested at my home or office?</span>
+                        <i class="fas fa-chevron-down"></i>
+                    </button>
+                    <div class="faq-answer">
+                        <p data-en="Yes! We offer mobile testing services for VO2max and RMR tests. We bring all necessary equipment to your location in the Miami area." data-es="¡Sí! Ofrecemos servicios de pruebas móviles para pruebas de VO2max y TMR. Traemos todo el equipo necesario a tu ubicación en el área de Miami.">Yes! We offer mobile testing services for VO2max and RMR tests. We bring all necessary equipment to your location in the Miami area.</p>
+                    </div>
+                </div>
+                
+                <div class="faq-item">
+                    <button class="faq-question" aria-expanded="false">
+                        <span data-en="How often should I retest?" data-es="¿Con qué frecuencia debo repetir la prueba?">How often should I retest?</span>
+                        <i class="fas fa-chevron-down"></i>
+                    </button>
+                    <div class="faq-answer">
+                        <p data-en="We recommend retesting every 3-4 months during intense training periods, or every 6 months for maintenance. This helps track your progress and adjust your training zones." data-es="Recomendamos repetir la prueba cada 3-4 meses durante períodos de entrenamiento intenso, o cada 6 meses para mantenimiento. Esto ayuda a rastrear tu progreso y ajustar tus zonas de entrenamiento.">We recommend retesting every 3-4 months during intense training periods, or every 6 months for maintenance. This helps track your progress and adjust your training zones.</p>
+                    </div>
+                </div>
+                
+                <div class="faq-item">
+                    <button class="faq-question" aria-expanded="false">
+                        <span data-en="What is the Norwegian 80/20 method?" data-es="¿Qué es el método Noruego 80/20?">What is the Norwegian 80/20 method?</span>
+                        <i class="fas fa-chevron-down"></i>
+                    </button>
+                    <div class="faq-answer">
+                        <p data-en="The Norwegian 80/20 method is a training approach where 80% of training is done at low intensity (Zones 1-2) and 20% at high intensity (Zones 4-5). This method has been proven to maximize endurance performance while minimizing injury risk and burnout." data-es="El método Noruego 80/20 es un enfoque de entrenamiento donde el 80% se realiza a baja intensidad (Zonas 1-2) y el 20% a alta intensidad (Zonas 4-5). Este método ha demostrado maximizar el rendimiento de resistencia mientras minimiza el riesgo de lesiones y el agotamiento.">The Norwegian 80/20 method is a training approach where 80% of training is done at low intensity (Zones 1-2) and 20% at high intensity (Zones 4-5). This method has been proven to maximize endurance performance while minimizing injury risk and burnout.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- Contact Section -->
     <section id="contact" class="contact">
         <div class="container">

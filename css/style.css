@@ -105,3 +105,78 @@ body { font-family: 'Inter', sans-serif; background: var(--bg-color); color: var
 .calculator-container { max-width: 900px; margin: 0 auto; padding: 50px; display: grid; grid-template-columns: 1fr 1fr; gap: 50px; }
 .calculator-inputs { display: flex; flex-direction: column; gap: 25px; }
 .input-group label { display: block; font-weight: 600; color: var(--text-primary); margin-bottom: 10px; }
+.input-group input { width: 100%; }
+.calculator-results { display: flex; flex-direction: column; gap: 15px; }
+.zone-result { display: flex; align-items: center; gap: 15px; padding: 15px 20px; background: var(--bg-color); border-radius: 15px; box-shadow: var(--shadow-inset); }
+.zone-result-label { font-weight: 700; color: var(--text-primary); min-width: 80px; }
+.zone-result-value { font-weight: 800; color: var(--accent); font-size: 1.2rem; }
+
+/* Contact Section */
+.contact { padding: 100px 0; background: var(--bg-light); }
+.contact-form { max-width: 700px; margin: 0 auto; padding: 50px; display: flex; flex-direction: column; gap: 25px; }
+.form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 25px; }
+.contact-form select { cursor: pointer; }
+.contact-form textarea { resize: vertical; min-height: 150px; }
+.contact-form button { align-self: center; margin-top: 10px; }
+
+/* Footer */
+.footer { background: var(--text-primary); color: #fff; padding: 40px 0; text-align: center; }
+.footer p { opacity: 0.8; font-size: 0.95rem; }
+
+/* FAQ Section */
+.faq { padding: 100px 0; background: var(--bg-color); }
+.faq-container { max-width: 800px; margin: 0 auto; }
+.faq-item { margin-bottom: 20px; border-radius: 20px; overflow: hidden; box-shadow: var(--shadow-light); }
+.faq-question { width: 100%; padding: 25px 30px; background: var(--bg-color); border: none; text-align: left; font-size: 1.1rem; font-weight: 600; color: var(--text-primary); cursor: pointer; display: flex; justify-content: space-between; align-items: center; transition: all 0.3s ease; }
+.faq-question:hover { color: var(--accent); }
+.faq-question i { transition: transform 0.3s ease; }
+.faq-question[aria-expanded="true"] i { transform: rotate(180deg); }
+.faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.3s ease, padding 0.3s ease; background: var(--bg-light); }
+.faq-item.active .faq-answer { max-height: 500px; padding: 25px 30px; }
+.faq-answer p { color: var(--text-secondary); line-height: 1.7; }
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .hero-title { font-size: 3rem; }
+    .service-card { gap: 40px; }
+    .pricing-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 768px) {
+    .nav-menu { position: fixed; top: 80px; right: -100%; width: 100%; height: calc(100vh - 80px); background: var(--bg-color); flex-direction: column; padding: 40px; transition: right 0.3s ease; box-shadow: -10px 0 30px rgba(0,0,0,0.1); }
+    .nav-menu.active { right: 0; }
+    .hamburger { display: flex; }
+    .language-toggle { top: 85px; right: 20px; }
+    .hero-title { font-size: 2.2rem; }
+    .hero-subtitle { font-size: 1rem; }
+    .service-card { grid-template-columns: 1fr; gap: 30px; }
+    .service-card.reverse { direction: ltr; }
+    .service-image img { height: 300px; }
+    .pricing-grid { grid-template-columns: 1fr; }
+    .calculator-container { grid-template-columns: 1fr; padding: 30px; }
+    .form-row { grid-template-columns: 1fr; }
+    .zones-grid { grid-template-columns: 1fr; }
+    .contact-form { padding: 30px; }
+    .section-title { font-size: 2rem; }
+}
+
+@media (max-width: 480px) {
+    .hero-title { font-size: 1.8rem; }
+    .service-content h2 { font-size: 1.6rem; }
+    .pricing-card h3 { font-size: 1.2rem; }
+    .new-price { font-size: 2.2rem; }
+}
+
+/* Animations */
+@keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(30px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.fade-in-up { animation: fadeInUp 0.6s ease forwards; }
+
+/* Scrollbar Styling */
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-track { background: var(--bg-light); }
+::-webkit-scrollbar-thumb { background: var(--accent); border-radius: 5px; }
+::-webkit-scrollbar-thumb:hover { background: #e55a2b; }
