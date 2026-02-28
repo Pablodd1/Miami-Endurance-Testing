@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title data-en="Miami Endurance Testing" data-es="Miami Endurance Testing">Miami Endurance Testing</title>
-    <link rel="stylesheet" href="css/style.css?v=3">
+    <link rel="stylesheet" href="css/style.css?v=4">
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css">
 </head>
@@ -21,7 +21,8 @@
             <div class="nav-brand">MIAMI ENDURANCE</div>
             <ul class="nav-menu">
                 <li><a href="#services" data-en="Services" data-es="Servicios">Services</a></li>
-                <li><a href="#zones" data-en="Training Zones" data-es="Zonas">Training Zones</a></li>
+                <li><a href="#coaching" data-en="Coaching" data-es="Entrenamiento">Coaching</a></li>
+                <li><a href="#coaches" data-en="Our Coaches" data-es="Entrenadores">Coaches</a></li>
                 <li><a href="#pricing" data-en="Pricing" data-es="Precios">Pricing</a></li>
                 <li><a href="#contact" class="btn-nav glass-btn" data-en="Book Now" data-es="Reservar">Book Now</a></li>
             </ul>
@@ -33,41 +34,35 @@
 
     <!-- Hero Section -->
     <section class="hero">
-        <!-- Background Video -->
-        <video class="video-background" autoplay muted loop playsinline>
-            <source src="https://assets.mixkit.co/videos/preview/mixkit-athlete-running-on-a-running-track-32874-large.mp4" type="video/mp4">
-        </video>
+        <!-- Background Image with Animation (Replaces broken video) -->
+        <div class="video-background bg-pan"></div>
         <div class="hero-overlay"></div>
         
         <div class="container hero-container">
             <div class="hero-content">
-                <div class="badge-text" data-en="Advanced Sports Science" data-es="Ciencia Deportiva Avanzada">Advanced Sports Science</div>
+                <div class="badge-text" data-en="Advanced Sports Science" data-es="Ciencia Deportiva Avanzada"><i class="fas fa-brain"></i> We use AI to maximize results and outcomes</div>
                 <h1 class="hero-title" data-en="ELEVATE YOUR PERFORMANCE" data-es="ELEVA TU RENDIMIENTO">ELEVATE YOUR<br><span class="gradient-text">PERFORMANCE</span></h1>
-                <p class="hero-subtitle" data-en="VO2max, Lactate Threshold, and Metabolic Testing with clinical precision." data-es="Pruebas de VO2max, Umbral de Lactato y Metabolismo con precisión clínica.">VO2max, Lactate Threshold, and Metabolic Testing with clinical precision.</p>
+                <p class="hero-subtitle" data-en="VO2max, Lactate Threshold, and Metabolic Testing with clinical precision. Powered by AI and expert coaching." data-es="Pruebas de VO2max, Umbral de Lactato y Metabolismo con precisión clínica. Impulsado por IA y entrenamiento experto.">VO2max, Lactate Threshold, and Metabolic Testing with clinical precision. Powered by AI and expert coaching.</p>
                 <div class="hero-buttons">
                     <a href="#contact" class="btn-primary" data-en="Book an Assessment" data-es="Reservar Evaluación">Book an Assessment</a>
-                    <a href="#services" class="btn-secondary glass-btn" data-en="Explore Services" data-es="Explorar Servicios">Explore Services</a>
+                    <a href="#coaching" class="btn-secondary glass-btn" data-en="Explore Coaching" data-es="Explorar Entrenamiento">Explore Coaching</a>
                 </div>
             </div>
 
-            <!-- 3D Video Hero Element -->
+            <!-- 3D Image/Video Hero Element -->
             <div class="hero-3d-showcase">
                 <div class="card-3d card-3d-left">
-                    <video autoplay muted loop playsinline>
-                        <source src="https://assets.mixkit.co/videos/preview/mixkit-blood-test-in-a-laboratory-4834-large.mp4" type="video/mp4">
-                    </video>
+                    <img src="https://images.unsplash.com/photo-1571902943202-507ec2618e8f?auto=format&fit=crop&w=800&q=80" alt="Metabolic Testing" class="img-3d">
                     <div class="card-glass-overlay">
                         <i class="fas fa-heartbeat"></i>
                         <span data-en="Metabolic Testing" data-es="Pruebas Metabólicas">Metabolic Testing</span>
                     </div>
                 </div>
                 <div class="card-3d card-3d-right">
-                    <video autoplay muted loop playsinline>
-                        <source src="https://assets.mixkit.co/videos/preview/mixkit-woman-doing-breathing-exercises-4295-large.mp4" type="video/mp4">
-                    </video>
+                    <img src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=800&q=80" alt="Endurance Mask" class="img-3d">
                     <div class="card-glass-overlay">
                         <i class="fas fa-running"></i>
-                        <span data-en="Endurance Mask" data-es="Máscara de Resistencia">Endurance Mask</span>
+                        <span data-en="Endurance Testing" data-es="Prueba de Resistencia">Endurance Testing</span>
                     </div>
                 </div>
             </div>
@@ -81,12 +76,9 @@
         <div class="container">
             <h2 class="section-title gradient-text" data-en="OUR SERVICES" data-es="NUESTROS SERVICIOS">OUR SERVICES</h2>
             
-            <!-- Service 1 -->
             <div class="service-card glass-card">
                 <div class="service-video">
-                    <video autoplay muted loop playsinline poster="https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800">
-                        <source src="https://assets.mixkit.co/videos/preview/mixkit-blood-test-in-a-laboratory-4834-large.mp4" type="video/mp4">
-                    </video>
+                    <img src="https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=800&q=80" alt="Lactate Testing" class="img-3d">
                 </div>
                 <div class="service-content">
                     <div class="icon-wrap"><i class="fas fa-tint"></i></div>
@@ -95,7 +87,6 @@
                 </div>
             </div>
 
-            <!-- Service 2 -->
             <div class="service-card glass-card reverse">
                 <div class="service-content">
                     <div class="icon-wrap"><i class="fas fa-lungs"></i></div>
@@ -103,18 +94,13 @@
                     <p data-en="Maximum oxygen uptake measurement at your home or office. The gold standard for cardiovascular fitness assessment." data-es="Medicion de consumo maximo de oxigeno en tu casa u oficina. El estandar de oro para evaluacion de condicion cardiovascular.">Maximum oxygen uptake measurement at your home or office. The gold standard for cardiovascular fitness assessment.</p>
                 </div>
                 <div class="service-video">
-                    <video autoplay muted loop playsinline poster="https://images.unsplash.com/photo-1574680096141-1cddd32e04ca?w=800">
-                        <source src="https://assets.mixkit.co/videos/preview/mixkit-athlete-running-on-a-running-track-32874-large.mp4" type="video/mp4">
-                    </video>
+                    <img src="https://images.unsplash.com/photo-1574680096141-1cddd32e04ca?auto=format&fit=crop&w=800&q=80" alt="VO2MAX Testing" class="img-3d">
                 </div>
             </div>
 
-            <!-- Service 3 -->
             <div class="service-card glass-card">
                 <div class="service-video">
-                    <video autoplay muted loop playsinline poster="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800">
-                        <source src="https://assets.mixkit.co/videos/preview/mixkit-woman-doing-breathing-exercises-4295-large.mp4" type="video/mp4">
-                    </video>
+                    <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=800&q=80" alt="RMR Testing" class="img-3d">
                 </div>
                 <div class="service-content">
                     <div class="icon-wrap"><i class="fas fa-fire-alt"></i></div>
@@ -125,59 +111,74 @@
         </div>
     </section>
 
-    <!-- Training Zones Section -->
-    <section id="zones" class="zones-section">
+    <!-- Coaching Section (NEW) -->
+    <section id="coaching" class="coaching-section">
         <div class="container">
-            <h2 class="section-title gradient-text" data-en="TRAINING ZONES" data-es="ZONAS DE ENTRENAMIENTO">TRAINING ZONES</h2>
+            <h2 class="section-title gradient-text" data-en="ELITE COACHING" data-es="ENTRENAMIENTO ELITE">ELITE COACHING</h2>
+            <p class="section-subtitle text-center" style="margin-bottom: 50px; color: var(--text-secondary); font-size: 1.2rem;" data-en="We use AI to maximize results and outcomes across all disciplines." data-es="Usamos IA para maximizar los resultados y logros en todas las disciplinas.">We use AI to maximize results and outcomes across all disciplines.</p>
             
-            <div class="zones-grid">
-                <div class="zone-card glass-card">
-                    <div class="zone-header">
-                        <span class="zone-number">Z1</span>
-                        <h3 data-en="Recovery" data-es="Recuperacion">Recovery</h3>
+            <div class="coaching-grid">
+                <div class="coaching-card glass-card">
+                    <div class="coaching-icons">
+                        <i class="fas fa-running"></i>
+                        <i class="fas fa-swimmer"></i>
+                        <i class="fas fa-biking"></i>
                     </div>
-                    <div class="zone-content">
-                        <p data-en="Pure aerobic metabolism. Blood lactate remains at resting levels. Enhances fat oxidation." data-es="Metabolismo aerobico puro. El lactato permanece en reposo. Mejora oxidacion de grasa.">Pure aerobic metabolism. Blood lactate remains at resting levels. Enhances fat oxidation.</p>
+                    <h3 data-en="RUNNING, TRIATHLON, SWIM & BIKING" data-es="CARRERA, TRIATLÓN, NATACIÓN Y CICLISMO">RUNNING, TRIATHLON, SWIM & BIKING</h3>
+                    <div class="price-tag"><span class="new-price">$300</span><span class="period">/mo</span></div>
+                    
+                    <div class="benefits-list">
+                        <h4 data-en="What's Included:" data-es="Qué incluye:">What's Included:</h4>
+                        <ul class="features">
+                            <li><i class="fas fa-robot"></i> <span data-en="AI-driven data analysis to maximize outcomes" data-es="Análisis de datos por IA para maximizar resultados">AI-driven data analysis to maximize outcomes</span></li>
+                            <li><i class="fas fa-calendar-alt"></i> <span data-en="100% Customized monthly training plans" data-es="Planes de entrenamiento mensuales 100% personalizados">100% Customized monthly training plans</span></li>
+                            <li><i class="fas fa-chart-line"></i> <span data-en="Pacing, nutrition, and race-day strategy" data-es="Estrategia de ritmo, nutrición y día de carrera">Pacing, nutrition, and race-day strategy</span></li>
+                            <li><i class="fas fa-video"></i> <span data-en="Form and biomechanics video analysis" data-es="Análisis en video de forma y biomecánica">Form and biomechanics video analysis</span></li>
+                            <li><i class="fas fa-comments"></i> <span data-en="Direct daily communication with your coach" data-es="Comunicación diaria directa con tu entrenador">Direct daily communication with your coach</span></li>
+                            <li><i class="fas fa-tag"></i> <span data-en="Discounts on VO2max & Lactate Testing" data-es="Descuentos en pruebas de VO2max y Lactato">Discounts on VO2max & Lactate Testing</span></li>
+                        </ul>
+                    </div>
+                    <a href="#contact" class="btn-primary" style="margin-top: 20px; width: 100%; text-align: center;" data-en="Start Training" data-es="Empezar a Entrenar">Start Training</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Coaches Section (NEW) -->
+    <section id="coaches" class="coaches-section">
+        <div class="container">
+            <h2 class="section-title gradient-text" data-en="MEET YOUR COACHES" data-es="CONOCE A TUS ENTRENADORES">MEET YOUR COACHES</h2>
+            
+            <div class="coaches-grid">
+                <!-- Coach Jasmel -->
+                <div class="coach-card glass-card">
+                    <div class="coach-img-wrapper">
+                        <img src="https://images.unsplash.com/photo-1552674605-db6ffd4facb5?auto=format&fit=crop&w=400&q=80" alt="Jasmel Acosta">
+                    </div>
+                    <div class="coach-info">
+                        <h3>Jasmel Acosta</h3>
+                        <p class="coach-title" data-en="Head Endurance Coach" data-es="Entrenador Principal de Resistencia">Head Endurance Coach</p>
+                        <p class="coach-bio" data-en="Expert in triathlon and marathon preparation. Specializes in metabolic efficiency and data-driven performance optimization using the latest sports science methodologies." data-es="Experto en preparación para triatlón y maratón. Especializado en eficiencia metabólica y optimización del rendimiento basada en datos utilizando las últimas metodologías de ciencias del deporte.">Expert in triathlon and marathon preparation. Specializes in metabolic efficiency and data-driven performance optimization using the latest sports science methodologies.</p>
+                        <div class="coach-socials">
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                            <a href="#"><i class="fab fa-strava"></i></a>
+                        </div>
                     </div>
                 </div>
 
-                <div class="zone-card glass-card">
-                    <div class="zone-header">
-                        <span class="zone-number">Z2</span>
-                        <h3 data-en="Aerobic Base" data-es="Base Aerobica">Aerobic Base</h3>
+                <!-- Coach Eric -->
+                <div class="coach-card glass-card">
+                    <div class="coach-img-wrapper">
+                        <img src="https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?auto=format&fit=crop&w=400&q=80" alt="Eric Martinez">
                     </div>
-                    <div class="zone-content">
-                        <p data-en="Foundation for endurance performance. Mitochondrial biogenesis peaks." data-es="Fundamento del rendimiento. La biogenesis mitocondrial alcanza su maximo.">Foundation for endurance performance. Mitochondrial biogenesis peaks.</p>
-                    </div>
-                </div>
-
-                <div class="zone-card glass-card">
-                    <div class="zone-header">
-                        <span class="zone-number">Z3</span>
-                        <h3 data-en="Tempo" data-es="Tempo">Tempo</h3>
-                    </div>
-                    <div class="zone-content">
-                        <p data-en="The gray zone. Lactate rises above baseline but is cleared efficiently." data-es="La zona gris. El lactato sube pero se elimina eficientemente.">The gray zone. Lactate rises above baseline but is cleared efficiently.</p>
-                    </div>
-                </div>
-                
-                <div class="zone-card glass-card">
-                    <div class="zone-header">
-                        <span class="zone-number">Z4</span>
-                        <h3 data-en="Threshold" data-es="Umbral">Threshold</h3>
-                    </div>
-                    <div class="zone-content">
-                        <p data-en="Lactate threshold (LT2). Lactate accumulates faster than cleared." data-es="Umbral de lactato (LT2). El lactato se acumula rapidamente.">Lactate threshold (LT2). Lactate accumulates faster than cleared.</p>
-                    </div>
-                </div>
-                
-                <div class="zone-card glass-card">
-                    <div class="zone-header">
-                        <span class="zone-number">Z5</span>
-                        <h3 data-en="VO2max" data-es="VO2max">VO2max</h3>
-                    </div>
-                    <div class="zone-content">
-                        <p data-en="Maximum anaerobic effort. Body cannot supply oxygen fast enough." data-es="Esfuerzo anaerobico maximo. El cuerpo no suministra oxigeno suficiente.">Maximum anaerobic effort. Body cannot supply oxygen fast enough.</p>
+                    <div class="coach-info">
+                        <h3>Eric Martinez</h3>
+                        <p class="coach-title" data-en="Performance & Physiology Coach" data-es="Entrenador de Rendimiento y Fisiología">Performance & Physiology Coach</p>
+                        <p class="coach-bio" data-en="Specialist in cycling and running mechanics. Eric integrates clinical testing data (VO2max, Lactate) directly into actionable training blocks to maximize your race day outcomes." data-es="Especialista en mecánica de ciclismo y carrera. Eric integra datos de pruebas clínicas (VO2max, Lactato) directamente en bloques de entrenamiento accionables para maximizar tus resultados el día de la carrera.">Specialist in cycling and running mechanics. Eric integrates clinical testing data (VO2max, Lactate) directly into actionable training blocks to maximize your race day outcomes.</p>
+                        <div class="coach-socials">
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                            <a href="#"><i class="fab fa-strava"></i></a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -211,11 +212,11 @@
                 </div>
 
                 <div class="pricing-card glass-card">
-                    <h3 data-en="RMR TEST" data-es="PRUEBA DE TMR">RMR TEST</h3>
-                    <div class="price"><span class="new-price">$250</span></div>
+                    <h3 data-en="COACHING" data-es="ENTRENAMIENTO">COACHING</h3>
+                    <div class="price"><span class="new-price">$300</span><span class="period">/mo</span></div>
                     <ul class="features">
-                        <li><i class="fas fa-check"></i> <span data-en="Home or office testing" data-es="Prueba en casa u oficina">Home or office testing</span></li>
-                        <li><i class="fas fa-check"></i> <span data-en="Exact caloric needs" data-es="Necesidades caloricas exactas">Exact caloric needs</span></li>
+                        <li><i class="fas fa-check"></i> <span data-en="Run, Bike, Swim, Tri" data-es="Carrera, Bici, Nado, Tri">Run, Bike, Swim, Tri</span></li>
+                        <li><i class="fas fa-check"></i> <span data-en="AI-driven optimization" data-es="Optimización por IA">AI-driven optimization</span></li>
                     </ul>
                     <a href="#contact" class="btn-primary">Book Now</a>
                 </div>
@@ -227,13 +228,33 @@
     <section id="contact" class="contact">
         <div class="container">
             <h2 class="section-title gradient-text" data-en="CONTACT US" data-es="CONTACTANOS">CONTACT US</h2>
-            <form class="contact-form glass-card">
+            
+            <div class="contact-methods">
+                <a href="https://wa.me/1234567890" target="_blank" class="glass-card contact-method">
+                    <i class="fab fa-whatsapp"></i>
+                    <h3 data-en="WhatsApp" data-es="WhatsApp">WhatsApp</h3>
+                    <p data-en="Message us instantly" data-es="Envíanos un mensaje">Message us instantly</p>
+                </a>
+                <a href="tel:+1234567890" class="glass-card contact-method">
+                    <i class="fas fa-phone-alt"></i>
+                    <h3 data-en="Call Us" data-es="Llámanos">Call Us</h3>
+                    <p data-en="Speak with a coach" data-es="Habla con un entrenador">Speak with a coach</p>
+                </a>
+                <a href="https://instagram.com/" target="_blank" class="glass-card contact-method">
+                    <i class="fab fa-instagram"></i>
+                    <h3 data-en="Instagram" data-es="Instagram">Instagram</h3>
+                    <p data-en="Follow our journey" data-es="Sigue nuestra trayectoria">Follow our journey</p>
+                </a>
+            </div>
+
+            <form class="contact-form glass-card" style="margin-top: 40px;">
                 <div class="form-row">
                     <input type="text" placeholder="Name" required class="glass-input">
                     <input type="email" placeholder="Email" required class="glass-input">
                 </div>
                 <select required class="glass-input">
                     <option value="">Select Service</option>
+                    <option value="coaching">Coaching - $300/mo</option>
                     <option value="lactate">Lactate Test - $150</option>
                     <option value="vo2max">VO2max Test - $250</option>
                     <option value="rmr">RMR Test - $250</option>
@@ -244,13 +265,36 @@
         </div>
     </section>
 
+    <!-- Floating WhatsApp CTA -->
+    <a href="https://wa.me/1234567890" target="_blank" class="floating-wa">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+
     <!-- Footer -->
     <footer class="footer">
         <div class="container">
+            <div class="footer-socials">
+                <a href="https://instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="https://wa.me/1234567890" target="_blank"><i class="fab fa-whatsapp"></i></a>
+            </div>
             <p>&copy; 2024 Miami Endurance Testing. All rights reserved.</p>
         </div>
     </footer>
 
-    <script src="js/main.js?v=3"></script>
+    <!-- Chatbot Snippet (Placeholder) -->
+    <script>
+        // Simple Chatbot Toggle Simulator
+        document.addEventListener('DOMContentLoaded', function() {
+            const chatWidget = document.createElement('div');
+            chatWidget.className = 'chatbot-widget';
+            chatWidget.innerHTML = '<i class="fas fa-comment-dots"></i>';
+            document.body.appendChild(chatWidget);
+            
+            chatWidget.addEventListener('click', function() {
+                alert('AI Chatbot opened! (Replace with actual Tawk.to or Intercom snippet)');
+            });
+        });
+    </script>
+    <script src="js/main.js?v=4"></script>
 </body>
 </html>

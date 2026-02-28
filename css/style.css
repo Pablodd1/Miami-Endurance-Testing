@@ -252,3 +252,63 @@ body {
     .form-row { grid-template-columns: 1fr; }
     .card-3d { width: 220px; height: 320px; }
 }
+
+/* Background Animation */
+.bg-pan {
+    position: absolute;
+    top: -10%; left: -10%; width: 120%; height: 120%;
+    background-image: url('https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1920&q=80');
+    background-size: cover;
+    background-position: center;
+    filter: saturate(0) brightness(0.6);
+    opacity: 0.3;
+    animation: panImage 30s linear infinite alternate;
+}
+@keyframes panImage { 0% { transform: scale(1) translate(0, 0); } 100% { transform: scale(1.1) translate(-2%, 2%); } }
+
+.img-3d { width: 100%; height: 100%; object-fit: cover; opacity: 0.8; }
+
+/* Coaching Section */
+.coaching-section { padding: 100px 0; background: rgba(15, 23, 42, 0.4); }
+.coaching-grid { display: flex; justify-content: center; }
+.coaching-card { padding: 50px; max-width: 600px; width: 100%; text-align: center; border: 2px solid var(--accent); position: relative; }
+.coaching-icons { font-size: 2.5rem; color: var(--accent); display: flex; justify-content: center; gap: 20px; margin-bottom: 20px; }
+.coaching-card h3 { font-size: 1.8rem; margin-bottom: 20px; }
+.benefits-list { text-align: left; margin: 30px 0; }
+.benefits-list h4 { color: var(--accent-secondary); margin-bottom: 15px; font-size: 1.2rem; }
+.benefits-list .features li { font-size: 1.1rem; padding: 15px 0; border-bottom: 1px solid rgba(255,255,255,0.1); display: flex; align-items: center; }
+.benefits-list .features li i { font-size: 1.3rem; margin-right: 15px; width: 30px; text-align: center; }
+
+/* Coaches Section */
+.coaches-section { padding: 100px 0; }
+.coaches-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 40px; }
+.coach-card { display: flex; flex-direction: column; overflow: hidden; padding: 0; }
+.coach-img-wrapper { height: 350px; width: 100%; overflow: hidden; }
+.coach-img-wrapper img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.5s ease; }
+.coach-card:hover .coach-img-wrapper img { transform: scale(1.05); }
+.coach-info { padding: 30px; }
+.coach-info h3 { font-size: 1.8rem; margin-bottom: 5px; }
+.coach-title { color: var(--accent); font-weight: 600; margin-bottom: 20px; font-size: 1.1rem; }
+.coach-bio { color: var(--text-secondary); line-height: 1.7; margin-bottom: 20px; }
+.coach-socials { display: flex; gap: 15px; }
+.coach-socials a { color: var(--text-primary); font-size: 1.5rem; transition: color 0.3s; }
+.coach-socials a:hover { color: var(--accent); }
+
+/* Contact Methods */
+.contact-methods { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px; margin-bottom: 50px; }
+.contact-method { text-align: center; padding: 40px 20px; text-decoration: none; color: var(--text-primary); transition: transform 0.3s; }
+.contact-method:hover { transform: translateY(-10px); }
+.contact-method i { font-size: 3rem; color: var(--accent); margin-bottom: 20px; }
+.contact-method h3 { margin-bottom: 10px; font-size: 1.5rem; }
+.contact-method p { color: var(--text-secondary); }
+
+/* Floating Elements */
+.floating-wa { position: fixed; bottom: 30px; right: 30px; background: #25D366; color: white; width: 60px; height: 60px; border-radius: 50px; text-align: center; font-size: 30px; box-shadow: 0 4px 15px rgba(37, 211, 102, 0.4); z-index: 1000; display: flex; align-items: center; justify-content: center; transition: all 0.3s ease; }
+.floating-wa:hover { transform: scale(1.1); box-shadow: 0 6px 20px rgba(37, 211, 102, 0.6); }
+
+.chatbot-widget { position: fixed; bottom: 100px; right: 30px; background: var(--accent-gradient); color: white; width: 60px; height: 60px; border-radius: 50px; text-align: center; font-size: 25px; box-shadow: 0 4px 15px rgba(56, 189, 248, 0.4); z-index: 1000; display: flex; align-items: center; justify-content: center; cursor: pointer; transition: all 0.3s ease; }
+.chatbot-widget:hover { transform: scale(1.1); }
+
+.footer-socials { display: flex; justify-content: center; gap: 20px; margin-bottom: 20px; }
+.footer-socials a { color: var(--text-secondary); font-size: 1.8rem; transition: color 0.3s; }
+.footer-socials a:hover { color: var(--accent); }
